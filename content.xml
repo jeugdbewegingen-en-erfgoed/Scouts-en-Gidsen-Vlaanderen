@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260518161810T3T9VJ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605181618107YSSOQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Jeugdbewegingen en erfgoed - Scouts en Gidsen Vlaanderen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>nl</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779111165074</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpb8uonw-6w15hf0sy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Startpagina</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Startpagina</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Startpagina</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Startpagina</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpb8uonw-6w15hf0sy</odePageId>
+      <odeBlockId>block-1776093319718-oo9p57acn</odeBlockId>
+      <blockName>Welkom!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpb8uonw-6w15hf0sy</odePageId>
+          <odeBlockId>block-1776093319718-oo9p57acn</odeBlockId>
+          <odeIdeviceId>idevice-1776093319717-j4izku9ue</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Logo_scoutsgidsenvl_hr_rgb.jpg" width="92" height="140" alt="" /><br /></p>
+<p>Iedere jeugdbeweging heeft haar eigen kenmerken en tradities, maar ze hebben allemaal iets gemeen. Elke jeugdbeweging wordt gekenmerkt door een lange en boeiende geschiedenis. Via deze pagina laten we je kennis maken met deze rijke geschiedenis. Hier vind je voor ieder wat wils!</p>
+<p>1. Spelbord: Leer op een speelse wijze de geschiedenis kennen van jeugdbewegingen in Vlaanderen en de geschiedenis van de jouwe.</p>
+<p>2. Erf-goed of erf-slecht?: Weet jij wat er wel of niet goed is om erfgoed te bewaren? Test het in de quiz!</p>
+<p>3. Spelletjesmachine: Heb je geen inspiratie voor een pleinspel of heb je gewoon zin om je eventjes los te gaan! Klik op deze machine en krijg een willekeurig spelletje uit de oude doos.</p>
+<p>4. Quiz: Test je kennis over de geschiedenis van de jeugdbewegingen! </p>
+<p>5. Weetjes: Ben jij de weetjes-man/vrouw van de groep? Heb je nog nood aan meer kennis? Dan is deze pagina zeker iets voor jou!</p>
+<p>6. Gesprekkenmachine: Geen gespreksonderwerpen meer of een gespreksonderwerp nodig voor een gezellige avond? Gebruik dan deze machine! Jullie zijn gegarandeerd vertrokken voor een lang en boeiend gesprek!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776093319717-j4izku9ue","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Logo_scoutsgidsenvl_hr_rgb.jpg\" width=\"92\" height=\"140\" alt=\"\" /><br /></p>\n<p>Iedere jeugdbeweging heeft haar eigen kenmerken en tradities, maar ze hebben allemaal iets gemeen. Elke jeugdbeweging wordt gekenmerkt door een lange en boeiende geschiedenis. Via deze pagina laten we je kennis maken met deze rijke geschiedenis. Hier vind je voor ieder wat wils!</p>\n<p>1. Spelbord: Leer op een speelse wijze de geschiedenis kennen van jeugdbewegingen in Vlaanderen en de geschiedenis van de jouwe.</p>\n<p>2. Erf-goed of erf-slecht?: Weet jij wat er wel of niet goed is om erfgoed te bewaren? Test het in de quiz!</p>\n<p>3. Spelletjesmachine: Heb je geen inspiratie voor een pleinspel of heb je gewoon zin om je eventjes los te gaan! Klik op deze machine en krijg een willekeurig spelletje uit de oude doos.</p>\n<p>4. Quiz: Test je kennis over de geschiedenis van de jeugdbewegingen! </p>\n<p>5. Weetjes: Ben jij de weetjes-man/vrouw van de groep? Heb je nog nood aan meer kennis? Dan is deze pagina zeker iets voor jou!</p>\n<p>6. Gesprekkenmachine: Geen gespreksonderwerpen meer of een gespreksonderwerp nodig voor een gezellige avond? Gebruik dan deze machine! Jullie zijn gegarandeerd vertrokken voor een lang en boeiend gesprek!</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpb8uonw-6w15hf0sy</odePageId>
+      <odeBlockId>block-1779095929100-prafi5cjb</odeBlockId>
+      <blockName>Werkgroep jeugdbewegingen en erfgoed</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpb8uonw-6w15hf0sy</odePageId>
+          <odeBlockId>block-1779095929100-prafi5cjb</odeBlockId>
+          <odeIdeviceId>idevice-1779095929099-qr5gcumdp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Sinds 1 juli 2024 zijn Vlaamse jeugdbewegingen erkend als immaterieel erfgoed. Een belangrijke mijlpaal in het bewaren en doorgeven van dit springlevende erfgoed. Achter deze werking bevindt zich de werkgroep Jeugdbewegingen en Erfgoed. Dit is een samenwerking tussen Histories vzw en de Vlaamse jeugdbewegingen (Scouts en Gidsen Vlaanderen, KSA, KLJ, Kamino, JNM, JRK, FOS Open Scouting, EJV en Chiro.</p>
+<p> <br />Wil je meer weten? Download dan onze brochure en ontrafel het verleden van jouw groep.</p>
+<p><a href="{{context_path}}/content/resources/Jeugdbewegingen en erfgoed_final.pdf" title="Jeugdbewegingen en erfgoed_final.pdf">Download Brochure</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779095929099-qr5gcumdp","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Sinds 1 juli 2024 zijn Vlaamse jeugdbewegingen erkend als immaterieel erfgoed. Een belangrijke mijlpaal in het bewaren en doorgeven van dit springlevende erfgoed. Achter deze werking bevindt zich de werkgroep Jeugdbewegingen en Erfgoed. Dit is een samenwerking tussen Histories vzw en de Vlaamse jeugdbewegingen (Scouts en Gidsen Vlaanderen, KSA, KLJ, Kamino, JNM, JRK, FOS Open Scouting, EJV en Chiro.</p>\n<p> <br />Wil je meer weten? Download dan onze brochure en ontrafel het verleden van jouw groep.</p>\n<p><a href=\"{{context_path}}/content/resources/Jeugdbewegingen en erfgoed_final.pdf\" title=\"Jeugdbewegingen en erfgoed_final.pdf\">Download Brochure</a></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpb8uony-jl8ikwbbs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Spelbord</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Spelbord</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Spelbord</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Spelbord</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpb8uony-jl8ikwbbs</odePageId>
+      <odeBlockId>block-1776073067088-qad8d4r52</odeBlockId>
+      <blockName>Leer jouw jeugdbeweging en andere beter kennen!</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpb8uony-jl8ikwbbs</odePageId>
+          <odeBlockId>block-1776073067088-qad8d4r52</odeBlockId>
+          <odeIdeviceId>idevice-1776073067087-ys2jt7tkx</odeIdeviceId>
+          <odeIdeviceTypeName>trivial</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="trivial-IDevice"><div class="trivial-instructions"><p>Roll the dice and answer the question until you get all the cheeses.</p></div><div class="game-evaluation-ids js-hidden" data-id="idevice-1776073067087-ys2jt7tkx" data-evaluationb="false" data-evaluationid="b93ac9c4-56b2-49d2-bdb1-363fa3087093"></div><div class="trivial-DataGame js-hidden">{"asignatura":"","author":"","authorVideo":"","typeGame":"Trivial","endVideo":0,"idVideo":"","startVideo":"","instructionsExe":"<p>Roll the dice and answer the question until you get all the cheeses.</p>","instructions":"Roll the dice and answer the question until you get all the cheeses. ","showMinimize":false,"optionsRamdon":true,"answersRamdon":true,"showSolution":true,"timeShowSolution":3,"useLives":false,"numberLives":3,"itinerary":{"showClue":false,"clueGame":"","percentageClue":100,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"numeroTemas":6,"nombresTemas":["Erf-goed","Erf-slecht","Trivial Time","Retro Time","Ons verhaal","Jullie verhaal"],"temas":[[{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Mijn groep heeft een archivaris die alle verslagen, brieven, evaluaties, ledenlijsten, enzovoort zorgvuldig verzamelt en ordelijk bewaart. Sterk bezig.","r":"b3Blbg==","s":"MTUx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Mijn groep heeft een sterke archiefkast waarin we het archief bewaren in zuurvrije archiefdozen. Zo'n doos kost ongeveer 2 euro. Je vindt ze in papierhandels en bij online webwinkels. Geweldig is dat!","r":"b3Blbg==","s":"MjAw","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Digitale foto's? Die bewaren we op een externe harde schijf, maar de mooiste laten we afdrukken. Zo gaan ze zeker niet verloren. Fantastisch!","r":"b3Blbg==","s":"MTQx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Mijn groep heeft een afspraak met de lokale heemkring. Een heemkring is een clubje vrijwilligers dat lokaal erfgoed bewaart voor toekomstige generaties. Elk jaar geven we onze verslagen foto's, enzovoort aan hen. Zij bewaren ons archief volgens de regels van de kunst en wij kunnen het inkijken wanneer we willen. Goed gezien!","r":"b3Blbg==","s":"MzI2","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Ik houd later alles bij van mijn tijd in de jeugdbeweging. Strak plan!","r":"b3Blbg==","s":"NzA=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Wij kennen en gebruiken de brochure Jeugdbewegingen en erfgoed, verkrijgbaar via de nationale koepelorganisatie van onze jeugdbeweging en via Histories. Goed bezig! Ga twee stappen vooruit!","r":"b3Blbg==","s":"MTg5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Binnenkort plannen we ons 50-jarig jubileum. Op het programma staan ook spelletjes uit de oude doos voor jong en oud. Uitstekend idee!","r":"b3Blbg==","s":"MTM0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Wij bewaren alle teksten van liedjes die we zelf maken, zoals tijdens ons kamp. Puik, ook dat is namelijk uniek erfgoed!","r":"b3Blbg==","s":"MTIw","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Binnenkort verbouwen en renoveren we onze lokalen, maar niet zonder eerst uitgebreid de oude lokalen te fotograferen. Goed idee, ook gebouwen zijn immers waardevol erfgoed! Zo kunnen de leden van de toekomst zien hoe de lokalen er vroeger uitzagen, en kan oud-leiding nostalgisch wegdromen bij het decor van hun jeugd.","r":"b3Blbg==","s":"MzE4","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Jouw groep verjaart, proficiat! Een perfecte aanleiding om in het eigen verleden te duiken. Gelukkig hebben jullie alle verslagboeken, kampdossiers, foto's contracten, enzovoort fatsoenlijk bewaard en weten jullie dat snel te vinden bij oud-leidster Mieke, in het leidingslokaal of een lokale archiefinstelling. Nogmaals proficiat!","r":"b3Blbg==","s":"MzMx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Mijn groep bewaart alle ledenlijsten, leidingslijsten, verslagen van vergaderingen, kampkrantjes, foto's, filmpjes, brieven aan ouders en leden, facturen, rekeningen, subsidieaanvragen en nog veel meer. Geweldig! Jouw groep beschikt over een pracht van een archief. Het verleden achterhalen? Geen probleem.","r":"b3Blbg==","s":"MzA2","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Mijn groep ordent documenten en foto's per thema en per jaartal. Waw! Zo zit alles mooi samen en vind je zaken snel terug.","r":"b3Blbg==","s":"MTIy","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Mijn groep houdt alles bij. We steken alle papieren, objecten en foto's in kartonnen dozen. Veel structuur zit er echter niet in. Niet slecht! Jouw groep zit duidelijk op de goede weg. Het mag wel allemaal iets overzichtelijker gebeuren.","r":"b3Blbg==","s":"MjM3","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Een tentoonstelling samenstellen voor het jubilieumfeest? Geen probleem, wij hebben immers een rijkelijk gevuld archief en hebben alles bij de hand. Handig!","r":"b3Blbg==","s":"MTU2","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Wanneer we niet zoveel inspiratie hebben voor een spelprogramma kijken we tussen de oude voorbereidingen van onze voorgangers, die bewaard worden in de lokalen. Ook dat is een reden om een archief bij te houden.","r":"b3Blbg==","s":"MjEx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Problemen met de eigenaar van de lokalen en andere juridische kwesties? In ons archief vinden we de nodige informatie om dossiers te onderbouwen.","r":"b3Blbg==","s":"MTQ1","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Elke leider of leidster bewaart apart documenten op zijn of haar computer, maar jaarlijks verzamelen we alle bestanden van onze ploeg. Al deze bestanden slaan we daarna op een externe harde schijf. Maar weet wel: de wondere wereld van de technologie staat niet stil. Computersoftware verandert zo snel dat digitale gegevens over enkele jaren niet meer leesbaar zijn. De belangrijkste documenten print je dus best ook af.","r":"b3Blbg==","s":"NDIw","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Op het einde van ons werkjaar organiseren we een moment waarop de hele leidingsploeg alle documenten bij elkaar brengt. We ordenen het geheel en steken alles in kartonnen dozen. We maken het gezellig en steken achteraf de barbecue aan. Slim aangepakt!","r":"b3Blbg==","s":"MjUx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Onze groep wil een boek schrijven over haar geschiedenis. We stelden een werkgroep samen met leiding en oud-leiding van verschillende generaties en mensen met specifieke talenten. Goed bekeken, zo werk je niet eenzaam en alleen.","r":"b3Blbg==","s":"MjI4","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Na elk evenement dat wij organiseren stuurt de verantwoordelijke zijn gemaakte bestanden, zoals flyers, facturen, enzovoort, door naar onze archivaris. Deze zet ze dan in onze gezamenlijke drive. Goed bezig! Vergeet zeker niet de allerbelangrijkste documenten af te drukken.","r":"b3Blbg==","s":"Mjc0","t":"","u":"","x":0,"y":0,"z":0,"ad":""}],[{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Je computer met alle digitale kampfoto's van jouw groep is gecrasht. Fijn zo! Dat waardevolle fotomateriaal ben je voor altijd kwijt.","r":"b3Blbg==","s":"MTMz","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"In het materiaalkot van je groep vind je een doos met oude dia's. Rommel volgens jou, en je dumpt de hele doos in de dichtstbijzijnde container. Proficiat! Je hebt net belangrijk erfgoed van de aardbol doen verdwijnen.","r":"b3Blbg==","s":"MjE4","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"\"Oude vlaggen?\" Daar drogen wij onze gewassen verfborstels mee af.\" Niet doen! Zo'n vlag is een uniek exemplaar. Je moet ze goed bewaren.","r":"b3Blbg==","s":"MTM3","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Het dak van het materiaalkot van je groep lekt. Al het erfgoed dat jullie daar bewaren - oude uniformstukken, aandenkens, spelmateriaal en papieren - wordt aangetast door schimmels.","r":"b3Blbg==","s":"MTgx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"\"Verslagen, brieven, uitnodigingen, spelprogramma's, enzovoort. Na mijn carrière in de jeugdbeweging ben ik van plan dat allemaal weg te gooien. Je kunt niet alles bewaren, en thuis op mijn zolder staat al rommel genoeg.\" Halt! Gooi je archief zeker niet weg. Geef het aan de archivaris van jouw groep, voeg toe aan het groepsarchief of neem contact op met een heemkring.","r":"b3Blbg==","s":"Mzcx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Voor een spel laat je de leden een collage maken met knipsels uit tijdschriften, kranten en ... oude kampfoto's die al jaren rondslingeren in een kast in het lokaal. Je hebt kostbare foto's naar de haaien geholpen.","r":"b3Blbg==","s":"MjE0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Een lokale geschiedkundige wil graag een boek schrijven over de geschiedenis van de jeugdbeweging in jullie gemeente en is op zoek naar materiaal. Helaas weet niemand waar dat ligt.","r":"b3Blbg==","s":"MTgx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Een oud-leidster die geschiedenis studeert, wil voor een mondelingegeschiedenisproject de pioniers van jullie groep interviewen over het ontstaan van de groep. Oude lijsten met namen en adressen van leiding en leden werden echter nooit bewaard. Zo jammer.","r":"b3Blbg==","s":"MjU1","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"\"Mijn groep bewaart alleen foto's en activiteitsprogramma's. Daar ben je achteraf tenminste nog iets mee.\" Jouw groep zit op de goede weg, maar het kan nog beter. Misschien kunnen ook de ledenlijsten, contracten, kasboeken, verslagen, affiches, zelfgemaakte tijdschriften enzovoort in het vervolg op een duurzame manier bijgehouden worden?","r":"b3Blbg==","s":"MzM5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"\"Mijn groep bewaart niks! Wanneer een nieuwe leidingsploeg de fakkel overneemt, worden alle papieren weggegooid. In ons lokaal is hier echt geen plaats voor\". Alarm! Dat 'oude papier' is een belangrijke historische bron vol weetjes uit het verleden.","r":"b3Blbg==","s":"MjQ5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"\"Mijn groep ordent niet. Ah ja, wij gooiden alles na een paar jaar weg. Opgeruimd staat netjes.\" Paniek! Het archief van jouw groep is in slechte staat en moet dringend onder handen genomen worden.","r":"b3Blbg==","s":"MTk3","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"\"Mijn groep bewaart alle documenten en foto's in plastic dozen met een deksel. Zo komt er geen stof aan en kunnen muizen of ander ongedierte er niet bij.\" Opgepast! Plastic geeft zuren en gassen af en kan dus het papier aantasten. Een speciale kartonnen doos is een beter alternatief.","r":"b3Blbg==","s":"Mjg0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"\"Het archief van onze groep bevindt zich op de afdeling oud papier in het containerpark\" Horror!","r":"b3Blbg==","s":"OTY=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"\"Onze groep heeft geen archivaris wegens niet nodig: we houden toch niets bij.\" Schande! Tip: stel iemand aan die vanaf nu alle documenten en foto's verzamelt en ordelijk bijhoudt.","r":"b3Blbg==","s":"MTgw","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"\"We bewaren onze affiches in enveloppen, ook grotere exemplaren.\" Oeps! Plooi affiches niet op maar bewaar ze plat of opgerold.","r":"b3Blbg==","s":"MTI3","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"\"In onze verkleeddoos vind je heel wat oude uniformstukken.\" Geen goed idee! Dat is waardevol erfgoed, het moet zo goed mogelijk bewaard en beschermd worden, op een propere plaats. Bij voorkeur hang je die kleren op aan een kleerhanger.","r":"b3Blbg==","s":"MjM2","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"\"Onze groep bestaat 50 jaar en ik ga de oprichter interviewen! Ik neem opnameapparatuur mee en we gaan gezellig op café, samen met vijf pioniers.\" Niet ideaal. Je neemt dat interview beter af bij de oprichter thuis, waar het meestal rustig is en de getuige zich het meest op zijn of haar gemak voelt. Een interview gebeurt ook best onder vier ogen. Keuvelende mensen werken storend tijdens een interview?","r":"b3Blbg==","s":"NDA0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"\"Voor het jubileumfeest van onze groep maken we een tentoonstelling. We verzamelen een hoop oude rommel en stallen die uit op vier tafels in ons lokaal.\" Oei, dat wordt misschien wat saai! Maak van je tentoonstelling een belevenis met een intrigerend verhaal, sprekende stukken, gevatte teksten, leuke werkvormen en een briljant decor.","r":"b3Blbg==","s":"MzM1","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"\"Naar aanleiding van de 70e verjaardag van onze groep, over vier maanden, willen we graag een boek schrijven over onze geschiedenis.\" Het is al veel te laat! Reken op twee jaar en schiet sneller in actie voor de 75e verjaardag.","r":"b3Blbg==","s":"MjI3","t":"","u":"","x":0,"y":0,"z":0,"ad":""}],[{"a":"","b":0,"c":2,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Waar kunnen kinderen vanaf de tweede helft van de negentiende eeuw terecht voor opvang, spel en onderricht? Tip: het is de voorloper van de jeugdbewegingen.bewegingen.","r":"UGF0cm9uYXRlbg==","s":"MTc4","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["Jaren 1920","Jaren 1900","Jaren 1940","Jaren 1960"],"p":0,"q":"Algemeen - In welk decennium ontstaan de meeste Vlaamse jeugdbewegingen?","r":"","s":"NzJB","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["1889","1905","1914","1921"],"p":0,"q":"Algemeen - Wanneer komt de wet op de verlenging van de schoolplicht van 6 tot 14 jaar tot stand?","r":"","s":"OTZD","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":2,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Wanneer werd de Dag van de Jeugdbeweging voor het eerst georganiseerd?","r":"MjAwMQ==","s":"ODE=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":2,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Hoe heette de voorloper van de Dag van de Jeugdbeweging?","r":"RGUlMjBEYWclMjB2YW4lMjBKYW4lMjBlbiUyMEFsbGVtYW4=","s":"Njc=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["250.000","500.000","750.000","1.000.000"],"p":0,"q":"Algemeen - Hoeveel jongeren bereiken de door de Vlaamse overheid erkende landelijke jeugdbewegingen samen?","r":"","s":"MTA2QQ==","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["Zodat de activiteiten aangepast kunnen worden aan de leeftijd","Zodat de leiding meerdere keren kon samenkomen","Zodat de kinderen meer naar activiteiten konden komen","Zodat ouders meerdere keren per week vrij waren"],"p":0,"q":"Algemeen - Waarom worden de kinderen en jongeren in een jeugdbeweging opgesplitst in verschillende leeftijdgroepen?","r":"","s":"MTE1QQ==","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":2,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Geeft het woord dat beantwoordt aan de volgende omschrijving: georganiseerde groepsvakantie in eenvoudige accommodatie.","r":"S2FtcA==","s":"MTMw","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":2,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Hoe noemen we de stukjes stof met een symbool erop die op het uniform of op kledingstukken van een jeugdbeweging genaaid worden?","r":"S2VudGVrZW5z","s":"MTM5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["Jaren 1940-1950","Jaren 1960-1970","Jaren 1980-1990","Jaren 2000-2010"],"p":0,"q":"Algemeen - In welke jaren evolueren de Vlaamse jeugdbewegingen het sterkst?","r":"","s":"NzVC","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["2021","2022","2024","2025"],"p":0,"q":"Algemeen - Wanneer vierde de Dag van de Jeugdbeweging zijn 25-jarig bestaan?","r":"","s":"NzZE","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["2024","2004","2014","1994"],"p":0,"q":"Algemeen - De jeugdbewegingen zijn erkend als immaterieel erfgoed! In welk jaar werd deze erkenning uitgereikt?","r":"","s":"MTExQQ==","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["1953","1973","1963","1983"],"p":0,"q":"Scouts en Gidsen Vlaanderen - Wanneer smolten VVKS en VVKM officieel samen?","r":"","s":"NzVC","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["De Brink, Herentals","De Kluis, St.-Joris-Weert","Merkenveld, Loppem","Woutershof, Kinrooi"],"p":0,"q":"Scouts en Gidsen Vlaanderen - Welke was het eerste gidsendomein aangekocht door VVKM?","r":"","s":"ODVB","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":2,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - Hoeveel jeugdverblijven (vroegere 'domeinen') heeft Scouts en Gidsen Vlaanderen vandaag? (Antwoord met een cijfer)","r":"OA==","s":"MTQ0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["WOSM","WSL","WAGGGS","WSGA"],"p":0,"q":"Scouts en Gidsen Vlaanderen - Hoe heten de overkoepelende organisaties van scouts en gidsen op wereldniveau?","r":"","s":"MTA4QUM=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":2,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - Jamboree is een internationale bijeenkomst voor scouts tussen 14 en 17 jaar van over de hele wereld. Om de hoeveel jaar vindt deze plaats? (Antwoord met cijfer)","r":"NA==","s":"MTkw","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["Zelfwerkzaamheid","Medebeheer","Oriëntatie","Ploegwerk"],"p":0,"q":"Scouts en Gidsen Vlaanderen - Welke is geen van de vijf basispijlers van scouting?","r":"","s":"ODJD","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["Founders Day","World Scouting Day","International Scouting Day","Baden-Powell's Day"],"p":0,"q":"Scouts en Gidsen Vlaanderen - Op 22 februari wordt over de heel wereld de geboortedag van Baden-Powell gevierd. Hoe wordt deze dag niet genoemd?","r":"","s":"MTQ0Qw==","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["Charles Dickens","Rudyard Kipling","Walt Disney","Multatuli"],"p":0,"q":"Scouts en Gidsen Vlaanderen - The Jungle Book speelt een rol in de werking van de welpen en scouting. Wie schreef het?","r":"","s":"MTE4Qg==","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":0,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["Afdeling Koningin Astrid Bijzondere Eisenwerking","Anders kan beter","Anders kan best","Alles kan beter"],"p":0,"q":"Scouts en Gidsen Vlaanderen - Waarvoor staat de afkorting Akabe?","r":"","s":"NjRD","t":"","u":"","x":0,"y":0,"z":0,"ad":""}],[{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"De spion. Iemand wordt door de meester aangeduid als spion en moet ongezien het kamp proberen te ontvluchten naar een punt in de nabije omgeving. Zodra de anderen merken dat de spion het kamp ontvlucht, moeten zij de achtervolging inzetten om te verhinderen dat de spion zijn doel bereikt.","r":"b3Blbg==","s":"Mjg5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Spinnenkoppenkoers. De spelers staan met de handen en voeten op de startlijn, doch met de borst naar boven en de rug naar onder gekeerd. Op deze wijze proberen zij om het eerst een bepaalde baan af te leggen van hoogstens tien meter lang.","r":"b3Blbg==","s":"MjM4","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Bewegingsvrijheid. Deel de spelers in twee kampen. Kamp A gaat buiten. Onderwijl wordt er in B een gebeurtenis verteld, waarbij zeer vele bewegingen en gebaren gebruikt worden. Bijv. Een auto-ongeval - botsing met andere wagen - paniek - gewonden - veel bloed - politie -  ziekenwagen - nieuwsgierigen, enz. Speelster 1 van A wordt binnen geroepen. Al de gebaren en bewegingen worden haar voorgedaan, zonder één woord te spreken. Daarna worden ook de anderen één voor één binnengeroepen; telkens worden de gebaren uitgevoerd. De speelsters van A proberen deze gebeurtenis te raden. Tot slotte gaat B buiten en het spel herbegint.","r":"b3Blbg==","s":"NjI5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Ijskoningin en zonnestraal. Eén speler wordt aangeduid als ijskoningin, een andere als zonnestraal. Zij staan elk aan een kant van het terrein. Op het fluitsignaal lopen al de spelers vrij rond. De ijskoningin achtervolgt de spelers en tikt hen. De spelers zijn dood en blijven onbewegelijk staan. De zonnestraal tikt de gedode spelers en maakt hen weer leven, waarna ze opnieuw mogen meespelen. Na een vooraf bepaalde tijd worden de op dat moment dode spelers geteld. Twee andere spelers worden aangeduid als zonnestraal en ijskoningin.","r":"b3Blbg==","s":"NTM3","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Vergif. De spelers staan in een kring. In het midden staat of ligt een voorwerp: het vergif. Allen geven elkaar de hand en proberen elkaar tegen het vergif te trekken. Die het aanraakt of de handenverbinding verbreekt, valt uit.","r":"b3Blbg==","s":"MjI4","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Ambachten. De spelers staan in een kring. Een van hen verwijdert zich terwijl de anderen een ambacht kiezen. Wanneer de eerst terugkomt, maken de andereb de bewegingen eigen aan het gekozen ambacht, en moet hij het gekozen ambacht raden. Hij mag driemaal raden. Raadt hij juist, dan gaan allen lopen, en tracht hij een der vluchtenden te tikken die op zijn beurt eraan is.","r":"b3Blbg==","s":"Mzcy","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Elektriek. Eén speler wordt buitengezonden. De andere spelers leggen tien verschillende voorwerpen neer en duiden één voorwerp aan dat iedereen doodt door een elektrische ontlading zodra men het aanraakt. De buitengezonden speler wordt binnengeroepen en moet proberen al de voorwerpen, één voor één, weg te nemen zonder het gevaarlijke te raken. Raakt hij het toch, dan wordt hij uitgeschakeld en verovert zoveel punten als weggenomen voorwerpen.","r":"b3Blbg==","s":"NDQ2","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Krijgstucht. De leider beveelt een reeks oefeningen: al de spelers gaan zitten, lopen naar buiten, staan op handen en voeten, doen schoenen uit, kruipen onder de tafel door, knielen, hoesten, komen voor mij staan, links nevens mij, rechts nevens mij, achter mij, raak mij aan, enzovoort. De speler die het laatste een der bevelen uitvoert, valt uit en men speelt door tot er slechts één eindoverwinnaar is.","r":"b3Blbg==","s":"NDA2","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Ik zeg! De leider staat voor de spelers en doet de bewegingen voor terwijl hij ze beveelt zoals in turnen. De spelers doen de bevolen bewegingen slechts na nadat de leider eerst gezegd heeft: \"ik zeg\" (bijv. \"ik zeg: buigen\") en slechts na het bevel: \"marsj\" (bijv. \"Ik zeg: knie buigen, marsj\"). Eerst na het volledige bevel met \"ik zeg\" en \"marsj\" mag de beweging uitgevoerd worden. Alle fouten van te vroeg bewegen, en van bewegen als er bevolen is zonder \"ik zeg\" of zonder \"marsj\", worden met verlies van 't leven bestraft. De laatst overblijvende wint.","r":"b3Blbg==","s":"NTU4","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Herders en wolven. Baken een terrein van twee meter bij twee meter af als schapenstal. Twee herders bewaken de schapenstal. De wolven (alle andere spelers) proberen hierin te sluipen zonder door de herder aangeraakt te worden, zo niet zijn ze hun leven kwijt. Slagen daarentegen drie wolven erin de stal binnen te dringen, zonder door een herder geraakt te worden, dan hebben zij de overwinning.","r":"b3Blbg==","s":"Mzk1","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Wie ben ik. Ieder moet om beurten zichzelf voorstellen, en wel op de volgende wijze: 1. Ik heet ANNEMIE 2. Ik woon in ANTWERPEN 3. Ik eet gaarne AARDBEIEN 4. Ik ga op reis naar AMSTERDAM 5. Ik neem een APPELTAART mee Dan komt de tweede aan de beurt, al haar antwoorden moeten met B beginnen, daarna C en zo verder tot ieder zichzelf heeft voorgesteld. Wie één der vijf voorstellingen niet tijdig vindt, valt af.","r":"b3Blbg==","s":"NDEx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Spelen met de Breedte. In het midden van een cirkel, getekend op de grond, staat een stok. Gedurende het spel mag niemand de cirkel verlaten. In het begin van het spel krijgt elke speler drie punten. Iemand uit de groep wordt uitgekozen als tikker en wordt geblinddoekt. De tikker moet proberen iemand uit de groep te tikken, waarna deze persoon tikker wordt. Als de tikker de stok in het midden raakt, is hij/zij een punt kwijt. Als de tikker de cirkel verlaat, moet heel de groep hard loeien (MEUUUH!!!), zodat de tikker weet dat hij de rand van het spelveld bereikt heeft. Het spel is gedaan als iemand al zijn punten kwijt is.","r":"b3Blbg==","s":"NjMw","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Stoelendans. De spelers zitten op een stoel. Eén speler staat in het midden van de kring. De spelleider noemt de namen van twee spelers die zitten. Deze twee spelers proberen van plaats te verwisselen. De speler die in het midden staat, probeert echter op een van de tijdelijk vrijgekomen stoelen plaats te nemen. Slaagt hij daarin dan gaat de overblijvende speler in het midden staan.","r":"b3Blbg==","s":"Mzg1","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Knipoog-spel. Een deel van de spelers zitten op stoelen die in een kring werden opgesteld. Eén stoel blijft onbezet. De andere spelers staan achter de stoelen. De speler die achter de onbezette stoel staat, knipoogt naar één van de spelers op de stoelen. Deze speler tracht dan op de lege stoel te gaan zitten, voordat de speler die achter hem staat, hem kan tikken. Lukt hem dit, dan knipoogt de speler achter de stoel die nu vrijgekomen is naar één van de andere spelers, enzovoort. Wordt de speler bij het weglopen getikt dan keert hij terug naar zijn plaats en moet de knipoger zijn geluk bij een andere speler beproeven.","r":"b3Blbg==","s":"NjI1","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Kringtikken. Twee spelers lopen om de kring heen. Een bal wordt snel overgespeeld en de twee spelers die buiten de kring lopen, moeten proberen een speler uit de kring te tikken op het ogenblik dat die de bal heeft. Lukt dit, dan wisselen zij van plaats.","r":"b3Blbg==","s":"MjU0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Aarde, lucht en water. Een speler staat in het midden van de kring en heeft een bal. Hij werpt die bal naar een andere speler en zegt ‘aarde’, ‘lucht’ of ‘water’ en dan begint hij tot tien te tellen. De speler die de bal aangenomen heeft, moet binnen de tien seconden een dier noemen als ‘aarde’ geroepen werd, of een vogelnaam indien ‘lucht’ geroepen werd. Wie juist en op tijd antwoordt, mag de plaats van de speler in het midden innemen.","r":"b3Blbg==","s":"NDQw","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Boeddha. Een speler zit geblinddoekt midden in de kring. Tussen zijn benen ligt een geldstuk. De spelleider duidt een van de spelers uit de kring aan en die mag proberen het geldstuk weg te nemen. Kan de Boeddha die in het midden zit de sluiper aanwijzen dan wordt de sluiper Boeddha.","r":"b3Blbg==","s":"Mjg0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Kat en muis. De spelers staan in rijen van vier. Ze geven de spelers van hun rij een hand. Twee spelers staan niet in de rijen, zij zijn kat en muis. De kat probeert de muis te vangen. Zij lopen tussen de rijen spelers. Op een bepaald moment zegt de spelleider bv. ‘kwartdraai rechts’. De spelers in de rijen draaien en vormen nieuwe rijen. De situatie tussen de kat en de muis is helemaal gewijzigd. Indien de kat de muis niet heeft gevangen binnen een betrekkelijk korte tijd, worden twee andere spelers kat en muis.","r":"b3Blbg==","s":"NTE4","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Blindeman. Alle spelers, uitgezonderd één, zijn geblinddoekt. Zij bevinden zich op een afgebakend terrein. De speler die niet geblinddoekt is, loopt fluitend tussen de andere spelers, die hem moeten tikken. Kan iemand de fluiter tikken, dan wordt die de nieuwe fluiter. Een geblinddoekte speler die voelt dat hij getikt wordt, moet direct ‘blinde’ roepen om aan de tikker te laten weten dat hij de fluiter niet is.","r":"b3Blbg==","s":"NDE0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Terrein veroveren. Een zeer klein stukje terrein wordt afgebakend. Op een teken van de spelleider (en dat kan ook een welp zijn), proberen de spelers een plaats te vinden op deze kleine oppervlakte. Wanneer de hele groep heeft plaatsgenomen op het afgebakende terrein, wordt de ruimte kleiner gemaakt. De groep moet dan telkens vindingrijker worden om op de kleine ruimte plaats te nemen.","r":"b3Blbg==","s":"Mzg4","t":"","u":"","x":0,"y":0,"z":0,"ad":""}],[{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Bij Chiro, KLJ en KSA zijn er nog altijd een aantal groepen met een eigen muziekkapel of fanfare","r":"b3Blbg==","s":"MTA3","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Eén van de redenen waarom jeugdbewegingen een uniform hadden en hebben, is dat het verschillende sociale standen bijeenbracht en de (uiterlijke) verschillen uitvlakt.","r":"b3Blbg==","s":"MTc3","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Scoutisme - scouting - scouts: internationale jeugdorganisatie, begin van de twintigste eeuw opgericht door de Britse militair Baden-Powell. De methodiek van het scoutisme werd net voor de Eerste Wereldoorlog in België geïntroduceerd. Binnen de Belgische scouting ontstonden twee strekkingen: een pluralistisch en een katholieke. Tegenwoordig zijn er in België vijf erkende scoutsbewegingen: Scouts en Gidsen Vlaanderen, FOS Open Scouting, les Scouts, Les Guides Catholiques de Belgique en Les Scouts et Guides Pluralistes.","r":"b3Blbg==","s":"NTM0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Veel scouts- en gidsengroepen geven hun leden een totemnaam, een naam van een dier die verwijst naar karaktereigenschappen van de jongere. Dat gebeurt bij de totemisatie, een inwijdingsritueel met beproevingen. Een totemnaam aanvaarden betekent dat je een engagement aangaat. Een voortotem is een adjectief dat goed bij je past. Voorbeelden: optimistische bij, olijke bever, speelse fluwijn. Baden-Powell werd destijds door Afrikaanse stammen bestempeld als Impeesa, de onvermoeibare hyena.","r":"b3Blbg==","s":"NTAx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Spelen, activiteiten, thema's, informatie, enzovoort: je leest er alles over in de tijdschriften van de jeugdbewegingen. Het is altijd al een belangrijk communicatiemiddel geweest. Door de jaren heen zijn er heel wat bij elkaar geschreven. Je hebt de nationale en de regionale. Daarnaast geven veel lokale groepen een paar keer per jaar een tijdschriftje of krantje uit. Ze vormen een schat van informatie over het leven in de jeugdbeweging vroeger en nu.","r":"b3Blbg==","s":"NDY2","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Veldbedden, zachte matrassen of kampeermatjes: dat kenden ze vroeger niet op kamp. Elk lid kreeg een grote stoffen zak die ze moesten opvullen met stro van de boer.","r":"b3Blbg==","s":"MTc1","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - In de tweede helft van de negentiende eeuw worden her en der in Vlaanderen patronaten gesticht. Een patronaat is een jeugdvereniging van de parochie. Kinderen bidden, leren en spelen in een patronaat. Vanuit de patronaten groeien vanaf de jaren 1910 ook enkele jeugdbewegingen.","r":"b3Blbg==","s":"Mjg4","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Het verhaal van de jeugdbewegingen in Vlaanderen begint in 1875 wanneer de Katholieke Vlaamse Studentenbeweging met haar specifieke karakter van jeugd- en studentenbeweging tot stand komt.","r":"b3Blbg==","s":"MTk5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Internationaal werd de scouts- en gidsenbeweging in 1907 gesticht door Baden-Powell.","r":"b3Blbg==","s":"OTU=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Rond 1900 ontstaan in Duitsland en Engeland de jeugdbewegingen die internationaal het meest bekend zijn en ook inspiratie bieden aan de jeugdbewegingen in Vlaanderen: de Wandervogelbeweging, Scouting en Guiding. Die laatste twee krijgen voor en na de Eerste Wereldoorlog vaste voet in Vlaanderen","r":"b3Blbg==","s":"MzA2","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Paus Pius XI start begin jaren 1920 met de Katholieke Actie, een massabeweging om de secularisering van de samenleving tegen te gaan. Het vernieuwende element was dat de kerk de gelovige leek opriep om priesters bij te staan in hun strijd tegen het geloofsverval. In de praktijk uitte zich dat in de uitbreiding en centralisering van het katholieke verenigingsleven. In Vlaanderen richtte de Katholieke Actie zich voornamelijk op jeugdbewegingen die per stand werden opgericht, zoals BJB, KAJ, KSA, KSJ.","r":"b3Blbg==","s":"NTE0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Priester Jozef Cardijn (1882-1967) sticht in 1924 de Katholieke Arbeidersjeugd en is lange tijd nationale proost van KAJ.","r":"b3Blbg==","s":"MTMy","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - In 1926 wordt de VKAJ, de Vrouwelijke Katholieke Arbeidersjeugd, opgericht.","r":"b3Blbg==","s":"ODY=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - KAJ ontstaat in het begin van de jaren 1920 als jongerenbeweging binnen de katholieke arbeidersbeweging, als emancipatiebeweging voor jonge arbeiders.","r":"b3Blbg==","s":"MTYx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - In de jaren 1920 en 1930 worden jeugdorganisaties soms als hulpkrachten ingezet bij een transformatie van de maatschappij. Net voor en tijdens de Tweede Wereldoorlog verandert dit. De jeugdbeweging als methode wordt herontdekt. De klemtoon wordt verlegd naar persoonlijkheidsvorming en groepsleven.","r":"b3Blbg==","s":"MzA5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - In de jaren 1930 bestond er een afspraak tussen scouts en Chiro. De Chiro zou niet in tenten op kamp gaan en ze mochten hun leden geen overlevingstechnieken leren. Een gevolg hiervan is dat de Chiro niet zelf kookt op kamp maar dat kookouders koken voor de hele groep.","r":"b3Blbg==","s":"Mjc5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - De jaren 1950: spelen met ridders was toen zeer hip.","r":"b3Blbg==","s":"NjM=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Vanaf de jaren 1960 verandert de jeugdbeweging als methode: de autoritaire top-downbenadering wordt vervangen door een van de behoeften van de leden vertrekkende bottom-upaanpak.","r":"b3Blbg==","s":"MTg5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - In de woelige jaren 1960 en 1970 richten de jeugdbewegingen zich weer uitdrukkelijk naar de bredere maatschappij.","r":"b3Blbg==","s":"MTI0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Sinds de jaren 1960 tot in de jaren 1990 wordt regelmatig een (inter)nationale veldloop voor jeugdbewegingen georganiseerd: de Dag van Jan en Alleman.","r":"b3Blbg==","s":"MTYx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Sinds de jaren 1990 ligt bij de jeugdbewegingen de klemtoon vooral op ongecompliceerd samen jong zijn, het beleven van het jong zijn in de eigen groep.","r":"b3Blbg==","s":"MTYy","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - In 2005-2006 is VerdaaiDe Wereld het jaarthema van tien Vlaamse Jeugdbewegingen in samenwerking met heel wat ngo's. Centraal staat het thema duurzame ontwikkeling, in een wereldwijde dimensie. In 2011-2012 werken de jeugdbewegingen opnieuw samen rond een gezamenlijk jaarthema over armoede.","r":"b3Blbg==","s":"MzAx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - In oktober 2001 wordt voor het eerst een Dag van de Jeugdbeweging georganiseerd in Vlaanderen.","r":"b3Blbg==","s":"MTA1","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Het JVKA, Jeugdverbond voor Katholieke Actie, was de overkoepelende beweging van de jeugdbewegingen die onder impuls van de Katholieke Actie ontstonden.","r":"b3Blbg==","s":"MTYz","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Gedurende de de jaren 1910 start scouting bij ons in Vlaanderen. Voor jongens gebeurde dit in 1910 en voor meisjes in 1919.","r":"b3Blbg==","s":"MTM0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Tijdens de bezetting door de nazi’s gedurende Wereldoorlog 2 mochten veel traditionele jeugdbewegingen niet meer vrij werken. De bezetter probeerde de jeugd te “gelijkschakelen” naar nazi-model.","r":"b3Blbg==","s":"MjA1","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Tegen de jaren 1980 was het jaarlijkse kamp één van de belangrijkste activiteiten van bijna elke jeugdbeweging. Tijdens deze kampen verbleven jongeren meestal in tenten of lokalen.","r":"b3Blbg==","s":"MTkx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Gedurende de jaren 2010 gebruiken steeds meer groepen digitale communicatie. Deze gebruiken ze in de vorm van websites of facebookgroepen.","r":"b3Blbg==","s":"MTQ5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Algemeen - Op 1 juli 2024 worden Vlaamse jeugdbewegingen erkend als immaterieel erfgoed! Een belangrijke mijlpaal voor een recreatievorm waar zo goed als elke Vlaming al mee in contact kwam.","r":"b3Blbg==","s":"MTkw","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - Bij de scouts en gidsen toon je door het dragen van een uniform dat je lid bent van een grotere beweging en verwijs je naar de waarden van die beweging.","r":"b3Blbg==","s":"MTgy","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - In 1907 vindt het eerste scoutskamp plaats op Brownsea Island (Verenigd Koninkrijk) onder leiding van Robert Baden-Powell.","r":"b3Blbg==","s":"MTUy","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - Het huidige Scouts en Gidsen Vlaanderen ontstaat in 1913 wanneer in Antwerpen de eerste Nederlandstalige scoutsgroep in ons land wordt opgericht door Georges de Hasque.","r":"b3Blbg==","s":"MTk4","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - In 1911 komt er een jeugdbeweging voor meisjes want aanvankelijk is de scoutsbeweging enkel voor jongens.","r":"b3Blbg==","s":"MTM1","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - Vanaf 1930 spreken we van VVKS (Vlaams Verbond van Katholieke Scouts) en vanaf 1961 van VVKM (Vlaams Verbond van Katholieke Meisjesgidsen). In 1973 verenigen ze zich in één nationale structuur: VVKM-VVKS.","r":"b3Blbg==","s":"MjM0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - In 1987-1988 wordt 'VVKSM na 75 jaar' gevierd","r":"b3Blbg==","s":"NzU=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - 1982: VVKM-VVKS richt VVKSM op, Vlaams Verbond van Katholieke Scouts en Meisjesgidsen.","r":"b3Blbg==","s":"MTE2","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - Tijdens het scouts- en gidsenjaar 2006-2007 viert scouting wereldwijd 100 jaar scouting onder het thema One world, one promise.","r":"b3Blbg==","s":"MTU3","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - In mei 2006 verandert de naam VVKSM in Scouts en Gidsen Vlaanderen.","r":"b3Blbg==","s":"OTc=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - In 1922 is er hoog bezoek in België, niemand minder dan Robert Baden-Powell is in ons land. Tijdens zijn bezoek wordt hij hartelijk ontvangen door koning Albert I en kardinaal Mercier.","r":"b3Blbg==","s":"MjE0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - Gedurende de Tweede Wereldoorlog werd vanuit het nationaal secretariaat VVKS opgeroepen om bij te dragen aan dienstbetoon. Veel scouts gingen hierdoor helpen bij winterhulp, dienstbetoon aan behoeftigen in eigen rangen en hulp aan kinderen van krijgsgevangenen en oorlogsweduwen.","r":"b3Blbg==","s":"MzA5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - Vanaf 1957 groeit het aantal takken, namelijk door de toevoeging van de kapoenentak. Het startte als een experiment in 1955 en werd door het commissariaat Welpen in 1957 in gebruik genomen.","r":"b3Blbg==","s":"MjE5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - Gedurende de jaren 60 is het dubbel feest! In 1962 vierden we 50 jaar katholieke scoutsbeweging in Vlaanderen met 30.000 leden in Antwerpen. Enkele jaren later, in 1965, werd dit opnieuw overgedaan in Leuven voor het 50-jarig bestaan van de katholieke gidsen in België.","r":"b3Blbg==","s":"Mjk5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - In 1974 vierden we het Jaar van de Rechtvaardigheid. Ook VVKM-VVKS deed mee. In het kader van het jaarthema 1% actie werd 1% van alle inkomsten van de nationale en plaatselijke groepen afgestaan aan ontwikkelingssamenwerking.","r":"b3Blbg==","s":"MjU1","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - 1990 is een symbolisch jaar voor Scouts en Gidsen Vlaanderen. Dit jaar vond de eerste Herfstontmoeting plaats op de Hoge Rielen! Een traditie die nog lang in stand wordt gehouden. Zelfs vandaag vind HO nog steeds plaats op deze, voor veel leden, heilige grond.","r":"b3Blbg==","s":"Mjkw","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen: Wie herinnert zich Nowan en Frie Bosmuis, de hoofdpersonages in De Steen van Nowan. Dit boek is het resultaat van een samenwerking met uitgeverij Van Halewyck waarbij niemand minder dan Marc De Bel het auteurschap op zich nam. Via dit scoutesk verhaal leren kapoenen omgaan met thema's als ruzie en vriendschap, heimwee, verdriet, moed of belofte.","r":"b3Blbg==","s":"Mzc2","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":0,"n":4,"o":["","","",""],"p":0,"q":"Scouts en Gidsen Vlaanderen - De coronapandemie gooit de werking van veel groepen door elkaar, maar ze staan niet stil! De jaarlijkse HO wordt vervangen door radio-uitzending RadiHO, werken met bubbels, ….","r":"b3Blbg==","s":"MjA1","t":"","u":"","x":0,"y":0,"z":0,"ad":""}],[{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Muziek speelt een belangrijke rol in een jeugdbeweging: zingen, liedjes componeren, dansen, gitaarspelen bij het kampvuur, een festival op poten zetten, enzovoort. Wie van jullie komt uit de meest muzikale groep? Denk één minuut na.","r":"b3Blbg==","s":"MjMy","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"We gaan op kamp! In de zomervakantie trekt bijna elke jeudbeweging eropuit, in een grote of een kleine groep. een ideaal moment om hilarische grappen uit te halen. Wie haalde ooit een grap uit op kamp?","r":"b3Blbg==","s":"MjAx","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Rituelen en tradities zijn vaak aanwezig in een jeugdbeweging. Ze verbinden leden van een groep tot een hechte gemeenschap, en tegelijk zorgen ze voor verscheidenheid. Lokale groepen geven er immers hun eigen betekenis en vorm aan. Kent jullie groep rituelen of tradities? Welke? Iedereen denkt één minuut na en geeft een voorbeeld.","r":"b3Blbg==","s":"MzMy","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Wie speelde ooit het meest spectaculaire nachtspel? Ontvoeringen, gemaskerde leiding, een tocht door het donkere bos, gehuil van wolven op de achtergrond: allemaal ingrediënten van een typisch nachtspel. Duik in je geheugen en vis een verhaal op over een spannend nachtspel dat je ooit meemaakte.","r":"b3Blbg==","s":"Mjk2","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"De geur van dennehout, gebakken spel en ei, modder, zweetsokken in een legertent: geuren roepen herinneringen op aan vroeger. Welke geur roept de strafste herinneringen op? Welke geur, gelinkt aan jouw tijd in de jeugdbeweging, zal je altijd bijblijven?","r":"b3Blbg==","s":"MjUz","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Bosspelen, tochten, avontuur, sport, pleinspelen, creativiteit en expressie: welke activiteit slaat het meest aan bij jullie leden? Welke activiteit is een echte hit in jullie groep?","r":"b3Blbg==","s":"MTgy","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"t Is feest! Veel groepen vieren feest naar aanleiding van de verjaardag van hun groep. Dat heet een jubileum. Wie vierde onlangs feest met zijn of haar groep? Wat stond er op het programma?","r":"b3Blbg==","s":"MTg5","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Wat is je allermooiste herinnering? Als je één moment uit je jeugdbewegingscarrière nog één keer mocht beleven, welk dan precies? Iedereen denkt één minuut na en stelt hun mooiste herinnering kort voor.","r":"b3Blbg==","s":"MjAy","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Veel jeudbewegingsgroepen organiseren activiteiten om geld in het laatje te brengen Geef een voorbeeld van een activteit die jullie ooit organiseerden om de kas te spijzen.","r":"b3Blbg==","s":"MTcy","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Bijnamen! Elke groep heeft er wel een paar. Gaande van \"de witte\" tot \"den tand\". Wie kan de gekste bijnaam voorleggen? En ken je het verhaal achter die naam? Denk één minuut na en leg dan een bijnaam voor.","r":"b3Blbg==","s":"MjA2","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Veel groepen organiseren feestjes en uitstapjes, bijvoorbeeld naar aanleiding van een speciaal moment zoals Halloween, Sinterklaas of Pasen. Denk even na en geef een voorbeeld uit jullie groep.","r":"b3Blbg==","s":"MTkz","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Organiseert jouw groep aan het begin van een nieuw werkjaar iets speciaal? Een soort van startdag, openingsmoment of overgangsritueel?","r":"b3Blbg==","s":"MTM0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Asterix en Obelix, FC de Kampioenen, Welkom in het circus, De spoken van Argwania: een kamp wordt meestal opgevrolijkt door een thema, een rode draad. Ga even terug in de tijd en keer terug met het beste kampthema.","r":"b3Blbg==","s":"MjE0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Gaan jullie op kamp of op weekend? In welke omstandigheden slapen en eten jullie?","r":"b3Blbg==","s":"ODE=","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Ook recepten en gerechten zin erfgoed. Waar kijken jullie op kamp ieder jaar weer naar uit om te eten? Met andere woorden: wat is de lekkerste kampkost?","r":"b3Blbg==","s":"MTUy","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"13 maart 2020. De nationale lockdown gaat in! Alle fysieke activiteiten van jeugdbewegingen worden opgeschort. Veel groepen zien zich genoodzaakt om alternatieve manieren van vermaak te verzinnen. Wat deden jullie groepen om de activiteiten op een andere manier te kunnen laten doorgaan?","r":"b3Blbg==","s":"Mjg3","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Vroeger was het de normaalste zaak om tijdens een activiteit van één fles te drinken. Door onder andere corona zijn we ons bewust van hygiëne. Hoe kijken jullie hiernaar terug? Moet dit behouden worden, of hebben jullie alternatieven?","r":"b3Blbg==","s":"MjM0","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"De laatste jaren laten milieu en duurzaamheid zich steeds vaker en luider horen binnen de jeugdbewegingen. De groepen proberen een steentje bij te dragen om deze problematiek op te lossen. Wat zijn jullie tips om een activiteit of kamp ecologischer te maken?","r":"b3Blbg==","s":"MjU4","t":"","u":"","x":0,"y":0,"z":0,"ad":""},{"a":"","b":0,"c":3,"d":0,"f":0,"g":35,"h":"","i":1,"j":1,"m":5,"n":4,"o":["","","",""],"p":0,"q":"Jeugdbewegingen vind je niet enkel bij ons in Vlaanderen, maar over heel de wereld. Onze groepen vind je vaak ook over de hele wereld. Veel jeugdbewegingen organiseren buitenlandse kampen of reizen. Doet jullie groep dit? Wat is jullie leukste herinnering hieraan?","r":"b3Blbg==","s":"MjY0","t":"","u":"","x":0,"y":0,"z":0,"ad":""}]],"isScorm":0,"textButtonScorm":"Save score","repeatActivity":true,"weighted":100,"title":"","customScore":false,"textAfter":"","msgs":{"msgStartGame":"Klik hier om te starten","msgSubmit":"Lever in!","msgEnterCode":"Geef de toegangscode in","msgErrorCode":"De toegangscode is niet correct","msgGameOver":"Game Over!","msgClue":"Cool! De hint is:","msgNewGame":"Klik hier voor een nieuw spel","msgCodeAccess":"Toegangscode","msgPlayStart":"Klik hier om te spelen","msgMinimize":"Minimaliseer","msgMaximize":"Maximaliseer","msgTime":"Tijd per vraag","msgFullScreen":"Volledig scherm","msgExitFullScreen":"Verlaat volledig scherm","msgNoImage":"Vraag zonder afbeelding","msgSuccesses":"Juist! | Excellent! | Goed! | Super goed! | Perfect!","msgFailures":"Dit was het niet! | Incorrect! | Niet correct! | Sorry! | Error!","msgNotNetwork":"Je kan dit spel enkel spelen met internetverbinding","msgQuestion":"Vraag","msgAnswer":"Controle","msgInformation":"informatie","msgAuthor":"Auteur","msgActityComply":"Je hebt deze activiteit al gedaan.","msgPlaySeveralTimes":"Je kan deze activiteit spelen zoveel als je wilt","msgYouLastScore":"De laatste opgeslagen score is ","msgOption":"Optie","msgImage":"Afbeelding","msgOrders":"Orden de antwoorden","msgIndicateWord":"Geef een woord of zin","msgGameStarted":"Het spel is al gestart.","msgPlayersName":"Je moet elke speller een naam geven.","msgReboot":"Wil je het spel herstarten?","msgRoolDice":"Rol de dobbelsteen.","msgsWinner":"Het spel is gedaan. De winnaar is %1. Wil je opnieuw spelen?","msgWinGame":"Cool! Je hebt het spel gewonnen.","msgsYouPlay":"Jij speelt. Rol de dobbelsteen.","msgSaveDiceAuto":"Jouw score wordt na elke worp automatisch opgeslagen.","msgSaveAuto":"Jouw score zal automatisch opgeslagen worden na elke vraag.","msgOnlyFirstGame":"Je kan enkel maar één keer spelen","msgGamers":"Spelers","msgReply":"Antwoord","msgErrorQuestion":"Je bent verloren.","msgGetQueso":"Je krijgt een stukje kaas","msgRightAnswre":"één punt meer.","msgAudio":"Audio","msgCorrect":"Correct","msgIncorrect":"Incorrect","msgUncompletedActivity":"onvolledige activiteit","msgSuccessfulActivity":"Activiteit: Geslaagd. Score %s","msgUnsuccessfulActivity":"Activiteit: Niet geslaagd. Score: %s","msgNext":"Volgende","msgTypeGame":"TriviExt","msgRestart":"Herstart","msgYouScore":"Jouw score"},"trivialID":1776073067439,"version":3,"modeBoard":true,"evaluation":false,"evaluationID":"b93ac9c4-56b2-49d2-bdb1-363fa3087093","id":"idevice-1776073067087-ys2jt7tkx"}</div><div class="trivial-bns js-hidden">Your browser is not compatible with this tool.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpb8uony-x89jp86ts</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Erf-goed of erf-slecht?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Erf-goed of erf-slecht?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Erf-goed of erf-slecht?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Erf-goed of erf-slecht?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpb8uony-x89jp86ts</odePageId>
+      <odeBlockId>block-1776080060305-cj9kqce9b</odeBlockId>
+      <blockName>Weet jij wat goed is voor erfgoed?</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpb8uony-x89jp86ts</odePageId>
+          <odeBlockId>block-1776080060305-cj9kqce9b</odeBlockId>
+          <odeIdeviceId>idevice-1776080060305-33r5j2dg5</odeIdeviceId>
+          <odeIdeviceTypeName>trueorfalse</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-trueorfalse-container">
+  
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1776080060305-33r5j2dg5" data-evaluationb="false" data-evaluationid="b93ac9c4-56b2-49d2-bdb1-363fa3087093"></div>
+        <div class="TOFP-instructions"><p>Lees volgende stellingen in verband met het bewaren van erfgoed. Kies of deze Erf-goed zijn of Erf-slecht.</p></div>
+        <div class="TOFP-MainContainer" data-instance="idevice-1776080060305-33r5j2dg5" id="tofPMainContainer-idevice-1776080060305-33r5j2dg5">
+            <div class="TOFP-GameContainer" id="tofPGameContainer-idevice-1776080060305-33r5j2dg5">
+                <div class="TOFP-GameScoreBoard TOFP-EHidden">
+                    <div class="TOFP-TimeNumber">
+                        <strong><span class="sr-av">Tijd per vraag:</span></strong>
+                        <p id="tofPPTime-idevice-1776080060305-33r5j2dg5" class="TOFP-PTime">00:00:</p>
+                    </div>
+                </div>
+                <div class="TOFP-MessgeDiv" id="tofPMessageDiv-idevice-1776080060305-33r5j2dg5">
+                    <div class="TOFP-Message" id="tofPMessage-idevice-1776080060305-33r5j2dg5"></div>
+                </div>
+                <div class="TOFP-StartGameDiv TOFP-EHidden" id="tofPStartGameDiv-idevice-1776080060305-33r5j2dg5">
+                    <button  id="tofPStartGame-idevice-1776080060305-33r5j2dg5" type="button" class="btn btn-primary">Klik hier om te starten</button>
+                </div>
+                <div class="TOFP-Multimedia " id="tofPMultimedia-idevice-1776080060305-33r5j2dg5">
+                </div>
+                <div class="TOFP-CheckTestDiv TOFP-EHidden" id="tofPCheckTestDiv-idevice-1776080060305-33r5j2dg5">
+                    <button id="tofPCheckTest-idevice-1776080060305-33r5j2dg5" type="button" class="btn btn-primary">Check</button>
+                    <button id="tofRebootTest-idevice-1776080060305-33r5j2dg5" type="button" class="btn btn-primary TOFP-EHidden">Probeer opnieuw!</button>
+                </div>
+        </div> 
+        <div class="Games-BottonContainer">
+            <div class="Games-GetScore">
+                <input id="tofPSendScore-idevice-1776080060305-33r5j2dg5" type="button" value="Save score" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+            </div>
+        </div>
+        <div class="TOFP-After"></div>
+        <div class="questionsMedia" style="display:none"></div>
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1776080060305-33r5j2dg5","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>Lees volgende stellingen in verband met het bewaren van erfgoed. Kies of deze Erf-goed zijn of Erf-slecht.</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Klik hier om te starten","msgTime":"Tijd per vraag","msgNoImage":"Geen vragen met afbeeldingen","msgScoreScorm":"De score kan niet worden bewaard, omdat deze pagina geen deel is van een SCORM pakket.","msgEndGameScore":"Start het spel steeds vooraleer je je score opslaat.","msgOnlySaveScore":"Je kan je score maar één keer opslaan!","msgOnlySave":"Je kan maar één keer opslaan","msgYouScore":"Jouw score","msgAuthor":"Auteur","msgOnlySaveAuto":"Je score wordt opgeslagen na elke vraag. Je kan maar een keer spelen.","msgSaveAuto":"Je score wordt automatisch opgeslagen na elke vraag.","msgSeveralScore":"Je kan je score onbeperkt opslaan","msgYouLastScore":"De laatste score is opgeslagen","msgActityComply":"Je hebt deze activiteit al gedaan.","msgPlaySeveralTimes":"Je kan deze activiteit zoveel doen als je wilt","msgUncompletedActivity":"Onvolledige activiteit","msgSuccessfulActivity":"Activiteit: Geslaagd. Score: %s","msgUnsuccessfulActivity":"Activiteit: Niet geslaagd. Score: %s","msgTypeGame":"Erf-goed of Erf-slecht","msgFeedback":"Feedback","msgSuggestion":"Suggestie","msgSolution":"Oplossing","msgQuestion":"Vraag","msgTrue":"Erf-goed","msgFalse":"Erf-slecht","msgOk":"Correct","msgKO":"Incorrect","msgShow":"Laten zien","msgHide":"Verstop","msgCheck":"Check","msgReboot":"Probeer opnieuw!","msgScore":"Score","msgWeight":"Gewicht","msgNext":"Volgende","msgPrevious":"Vorige"},"questionsRandom":true,"percentageQuestions":100,"isTest":false,"time":2,"questionsGame":[{"question":"<p>Mijn groep heeft een archivaris die alle verslagen, brieven, evaluaties, ledenlijsten, enzovoort zorgvuldig verzamelt en ordelijk bewaart.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Je computer met alle digitale kampfoto's van jouw groep is gecrasht. </p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Mijn groep heeft een sterke archiefkast waarin we het archief bewaren in zuurvrije archiefdozen. Zo'n doos kost ongeveer 2 euro. Je vindt ze in papierhandels en bij online webwinkels.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>In het materiaalkot van je groep vind je een doos met oude dia's. Rommel volgens jou, en je dumpt de hele doos in de dichtstbijzijnde container. </p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Digitale foto's? Die bewaren we op een externe harde schijf, maar de mooiste laten we afdrukken.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>\"Oude vlaggen?\" Daar drogen wij onze gewassen verfborstels mee af. </p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Mijn groep heeft een afspraak met de lokale heemkring. Een heemkring is een clubje vrijwilligers dat lokaal erfgoed bewaart voor toekomstige generaties. Elk jaar geven we onze verslagen foto's, enzovoort aan hen. Zij bewaren ons archief volgens de regels van de kunst en wij kunnen het inkijken wanneer we willen.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Het dak van het materiaalkot van je groep lekt. Al het erfgoed dat jullie daar bewaren - oude uniformstukken, aandenkens, spelmateriaal en papieren - wordt aangetast door schimmels.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Ik houd later alles bij van mijn tijd in de jeugdbeweging.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Verslagen, brieven, uitnodigingen, spelprogramma's, enzovoort. Na mijn carrière in de jeugdbeweging ben ik van plan dat allemaal weg te gooien. Je kunt niet alles bewaren, en thuis op mijn zolder staat al rommel genoeg.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Wij kennen en gebruiken de brochure Jeugdbewegingen en erfgoed, verkrijgbaar via de nationale koepelorganisatie van onze jeugdbeweging en via Histories.</p>\n<p><br /></p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Voor een spel laat je de leden een collage maken met knipsels uit tijdschriften, kranten en ... oude kampfoto's die al jaren rondslingeren in een kast in het lokaal.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Binnenkort plannen we ons 50-jarig jubileum. Op het programma staan ook spelletjes uit de oude doos voor jong en oud.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Een lokale geschiedkundige wil graag een boek schrijven over de geschiedenis van de jeugdbeweging in jullie gemeente en is op zoek naar materiaal. Helaas weet niemand waar dat ligt.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Wij bewaren alle teksten van liedjes die we zelf maken, zoals tijdens ons kamp. </p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Een oud-leidster die geschiedenis studeert, wil voor een mondelingegeschiedenisproject de pioniers van jullie groep interviewen over het ontstaan van de groep. Oude lijsten met namen en adressen van leiding en leden werden echter nooit bewaard.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Binnenkort verbouwen en renoveren we onze lokalen, maar niet zonder eerst uitgebreid de oude lokalen te fotograferen. Zo kunnen de leden van de toekomst zien hoe de lokalen er vroeger uitzagen, en kan oud-leiding nostalgisch wegdromen bij het decor van hun jeugd.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Mijn groep bewaart alleen foto's en activiteitsprogramma's. Daar ben je achteraf tenminste nog iets mee.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Jouw groep verjaart, proficiat! Een perfecte aanleiding om in het eigen verleden te duiken. Gelukkig hebben jullie alle verslagboeken, kampdossiers, foto's contracten, enzovoort fatsoenlijk bewaard en weten jullie dat snel te vinden bij oud-leidster Mieke, in het leidingslokaal of een lokale archiefinstelling.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Mijn groep bewaart niks! Wanneer een nieuwe leidingsploeg de fakkel overneemt, worden alle papieren weggegooid. In ons lokaal is hier echt geen plaats voor. </p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Mijn groep bewaart alle ledenlijsten, leidingslijsten, verslagen van vergaderingen, kampkrantjes, foto's, filmpjes, brieven aan ouders en leden, facturen, rekeningen, subsidieaanvragen en nog veel meer.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Mijn groep ordent niet. Ah ja, wij gooiden alles na een paar jaar weg. Opgeruimd staat netjes.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Mijn groep ordent documenten en foto's per thema en per jaartal. Zo zit alles mooi samen en vind je zaken snel terug. </p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Mijn groep bewaart alle documenten en foto's in plastic doezen met een deksel. Zo komt er geen stof aan en kunnen muizen of ander ongedierte er niet bij.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Mijn groep houdt alles bij. We steken alle papieren, objecten en foto's in kartonnen dozen. Veel structuur zit er echter niet in. </p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Het archief van onze groep bevindt zich op de afdeling oud papier in het containerpark</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Een tentoonstelling samenstellen voor het jubilieumfeest? Geen probleem, wij hebben immers een rijkelijk gevuld archief en hebben alles bij de hand.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Onze groep heeft geen archivaris wegens niet nodig: we houden toch niets bij.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Wanneer we niet zoveel inspiratie hebben voor een spelprogramma kijken we tussen de oude voorbereidingen van onze voorgangers, die bewaard worden in de lokalen. Ook dat is een reden om een archief bij te houden. </p>","feedback":"","suggestion":"","solution":1},{"question":"<p>We bewaren onze affiches in enveloppen, ook grotere exemplaren.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Problemen met de eigenaar van de lokalen en andere juridische kwesties? In ons archief vinden we de nodige informatie om dossiers te onderbouwen. </p>","feedback":"","suggestion":"","solution":1},{"question":"<p>In onze verkleeddoos vind je heel wat oude uniformstukken.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Elke leider of leidster bewaart apart documenten op zijn of haar computer, maar jaarlijks verzamelen we alle bestanden van onze ploeg. Al deze bestanden slaan we daarna op, op een externe harde schijf. </p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Onze groep bestaat 50 jaar en ik ga de oprichter interviewen! Ik neem opnameapparatuur mee en we gaan gezellig op café, samen met vijf pioniers.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Op het einde van ons werkjaar organiseren we een moment waarop de hele leidingsploeg alle documenten bij elkaar brengt. We ordenen het geheel en steken alles in kartonnen dozen. We maken het gezellig en steken achteraf de barbecue aan. </p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Voor het jubileumfeest van onze groep maken we een tentoonstelling. We verzamelen een hoop oude rommel en stallen die uit op vier tafels in ons lokaal.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Onze groep wil een boek schrijven over haar geschiedenis. We stelden een werkgroep samen met leiding en oud-leiding van verschillende generaties en mensen met specifieke talenten. </p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Naar aanleiding van de 70e verjaardag van onze groep, over vier maanden, willen we graag een boek schrijven over onze geschiedenis.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>Na elk evenement dat wij organiseren stuurt de verantwoordelijke zijn gemaakte bestanden, zoals flyers, facturen, etc., door naar onze archivaris. Deze zet ze dan in onze gezamenlijke drive. </p>","feedback":"","suggestion":"","solution":1}],"isScorm":0,"textButtonScorm":"Save score","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"b93ac9c4-56b2-49d2-bdb1-363fa3087093","showSlider":true,"ideviceId":"idevice-1776080060305-33r5j2dg5"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpb8uonz-jqmszkfvi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Spelletjesmachine</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Spelletjesmachine</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Spelletjes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Spelletjesmachine</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpb8uonz-jqmszkfvi</odePageId>
+      <odeBlockId>block-1776082600259-5ioxzvb2n</odeBlockId>
+      <blockName>Spelletjes uit de oude doos</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpb8uonz-jqmszkfvi</odePageId>
+          <odeBlockId>block-1776082600259-5ioxzvb2n</odeBlockId>
+          <odeIdeviceId>idevice-1776082600258-ksk1nf6j4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Elke jeugdbeweging heeft wel een typisch pleinspel. Druk op de knop en ontdek een willekeurig spel uit de oude doos!</p>
+<p><button onclick="kiesSpel()" style="padding: 10px 20px; font-size: 16px;">Geef mij een spel!</button></p>
+<p id="resultaat" style="font-weight: bold; margin-top: 15px;"></p>
+<p>
+<script>
+var spellen = [
+ "De spion - Iemand wordt door de meester aangeduid als spion en moet ongezien het kamp proberen te ontvluchten naar een punt in de nabije omgeving. Zodra de anderen merken dat de spion het kamp ontvlucht, moeten zij de achtervolging inzetten om te verhinderen dat de spion zijn doel bereikt.",
+"Spinnenkoppenkoers - De spelers staan met de handen en voeten op de startlijn, doch met de borst naar boven en de rug naar onder gekeerd. Op deze wijze proberen zij om het eerst een bepaalde baan af te leggen van hoogstens tien meter lang.",
+"Bewegingvrijheid - Deel de spelers in twee kampen. Kamp A gaat buiten. Onderwijl wordt er in B een gebeurtenis verteld, waarbij zeer vele bewegingen en gebaren gebruikt worden. Bijv. Een auto-ongeval - botsing met andere wagen - paniek - gewonden - veel bloed - politie -  ziekenwagen - nieuwsgierigen, enz. Speelster 1 van A wordt binnen geroepen. Al de gebaren en bewegingen worden haar voorgedaan, zonder één woord te spreken. Daarna worden ook de anderen één voor één binnengeroepen; telkens worden de gebaren uitgevoerd. De speelsters van A proberen deze gebeurtenis te raden. Tot slotte gaat B buiten en het spel herbegint.",
+"Ijskoningin en zonnestraal. Eén speler wordt aangeduid als ijskoningin, een andere als zonnestraal. Zij staan elke aan een kant van het terrein. Op het fluitsignaal lopen al de speler vrij rond. De ijskoningin achtervolgt de spelers en tikt hen. De spelers zijn dood en blijven onbewegelijk staan. De zonnestraal tikt de gedode spelers en maakt hen weer leven, waarna ze opnieuw mogen meespelen. Na een vooraf bepaalde tijd worden de op dat moment dode spelers geteld. Twee andere spelers worden aangeduid als zonnestraal en ijskoningin.",
+"Vergif. De speler staan in een kring. In het midden staat of ligt een voorwerp: het verfig. Allen geven elkaar de hand en proberen elkaar tegen het vergif te trekken. Die het aanraakt of de handenverbinding verbreekt, valt uit.",
+"Ambachten - De spelers staan in een kring. Een van hen verwijdert zich terwijl de anderen een ambacht kiezen. Waneer de eerst terugkomt, maken de andere de bewegingen eigen aan het gekozen ambacht, en moet hij het gekozen ambacht raden. Hij mag driemaal raden. Raadt hij juist, dan gaan allen lopen, en tracht hij een der vluchtenden te rikken die op zijn beurt eraan is.",
+ "Elektriek - Eén speler wordt buitengezonden. De andere spelers leggen tien verschillende voorwerpen neer en duiden één voorwerp aan dat iedereen doodt door een elektrische ontlading zodra men het aanraakt. De buitengezonden speler wordt binnengeroepen en moet proberen al de voorwerpen, één voor één, weg te nemen zonder het gevaarlijke te raken. Raakt hij het toch, dan wordt hij uitgeschakeld en verovert zoveel punten als weggenomen voorwerpen.",
+"Krijgstucht - De leider beveelt een reeks oefeningen: al de spelers gaan zitten, lopen naar buiten, staan op handen en voeten, doen schoenen uit, kruipen onder de tafel door, knielen, hoesten, komen voor mij staan, links nevens mij, rechts nevens mij, achter mij, raak mij aan, enzovoort. De speler die het laatste een der bevelen uitvoert, valt uit en men speelt door tot er slechts één eindoverwinnaar is.",
+"Ik zeg! - De leider staat voor de spelers en doet de bewegingen voor terwijl hij ze beveelt zoals in turnen. De spelers doen de bevolen bewegingen slechts na nadat de leider eerst gezegd heeft: ik zeg (bijv. ik zeg: buigen) en slechts na het bevel: marsj (bijv. Ik zeg: knie buigen, marsj). Eerst na het volledige bevel met ik zeg en marsj mag de beweging uitgevoerd worden. Alle fouten van te vroeg bewegen, en van bewegen als er bevolen is zonder ik zeg of zonder marsj, worden met verlies van 't leven bestraft. De laatst overblijvende wint.",
+"Herders en wolven - Baken een terrein van twee meter bij twee meter af als schapenstal. Twee herder bewaken de schapenstal. De wolven (alle andere spelers) proberen hierin te sluipen zonder door de herder aangeraakt te worden, zo niet zijn ze hun leven kwijt. Slagen daarentegen dire wolven erin de stal binnen te dringen, zonder door een herder geraakt te worden, dan hebben zij de overwinning.",
+"Wie ben ik - Ieder moet om beurten zichzelf voorstellen, en wel op de volgende wijze: 1. Ik heet ANNEMIE 2. Ik woon in ANTWERPEN 3. Ik eet gaarne AARDBEIEN 4. Ik ga op reis naar AMSTERDAM 5. Ik neem een APPELTAART mee Dan komt de tweede aan de beurt, al haar antwoorden moeten met B beginnen, daarna C en zo verder tot ieder zichzelf heeft voorgesteld. Wie één der vijf voorstellingen niet tijdig vind, valt af.",
+"Spelen met de Breedte - In het midden van een cirkel, getekend op de grond, staat een stok. Gedurende het spel mag niemand de cirkel verlaten. In het begin van het spel krijgt elke speler drie punten. Iemand uit de groep wordt uitgekozen als tikker en wordt geblinddoekt. De tikker moet proberen iemand uit de groep te tikken, waarna deze persoon tikker wordt. Als de tikker de stok in het midden raakt, is hij/zij een punt kwijt. Als de tikker de cirkel verlaat, moet heel de groep hard loeien (MEUUUH!!!), zodat de tikker weet dat hij de rand van het spelveld bereikt heeft. Het spel is gedaan als iemand al zijn punten kwijt is.",
+"Stoelendans - De spelers zitten op een stoel. Eén speler staat in het midden van de kring. De spelleider noemt de namen van twee spelers die zitten. Deze twee spelers proberen van plaats te verwisselen. De speler die in het midden staat, probeert echter op een van de tijdelijk vrijgekomen stoelen plaats te nemen. Slaagt hij daarin dat gaat de overblijvende speler in het midden staan.",
+"Knipoog-spel -  Een deel van de spelers zitten op stoelen die in een kring werden opgesteld. Eén stoel blijft onbezet. De andere spelers staan achter de stoelen. De speler die achter de onbezette stoel staat, knipoogt naar één van de spelers op de stoelen. Deze speler tracht dan op de lege stoel te gaan zitten, voordat de speler die achter hem staat, hem kan tikken. Lukt hem dit, dan knipoogt de speler achter de stoel die nu vrijkomen is naar één van de andere spelers, enzovoort. Wordt de speler bij het weglopen getikt dan keert hij terug naar zijn plaats en moet de knipoger zijn geluk bij een andere speler beproeven.",
+"Kringtikken - Twee spelers lopen om de kring heen. Een bal wordt snel overgespeeld en de twee spelers die buiten de kring lopen, moeten proberen een speler uit de kring te tikken op het ogenblik dat die de bal heeft. Lukt dit, dan wisselen zij van plaats.",
+"Aarde, lucht en water - Een speler staat in het midden van de kring en heeft een bal. Hij werpt die bal naar een andere speler en zegt ‘aarde’, ‘lucht’ of ‘water’ en dan begint hij tot tien te tellen. De speler die de bal aangenomen heeft, moet binnen de tien seconden een dier noemen als ‘aarde’ geroepen werd, of een vogelnaam indien ‘lucht’ geroepen werd. Wie juist en op tijd antwoordt, mag de plaats van de speler in het midden innemen.",
+"Boeddha - Een speler zit geblinddoekt midden in de kring. Tussen zijn benen ligt een geldstuk. De spelleider duidt een van de spelers uit de kring aan en die mag proberen het geldstuk weg te nemen. Kan de Boeddha die in het midden zit de sluiper aanwijzen dan wordt de sluiper Boeddha.",
+"Kat en muis - De spelers staan in rijen van vier. Ze geven de spelers van hun rij een hand. Twee spelers staan niet in de rijen, zij zijn kat en muis. De kat probeert de muis te vangen. Zij lopen tussen de rijen spelers. Op een bepaald moment zegt de spelleider bv. ‘kwartdraai rechts’. De spelers in de rijen draaien en vormen nieuwe rijen. De situatie tussen de kat en de muis is helemaal gewijzigd. Indien de kat de muis niet heeft gevangen binnen een betrekkelijk korte tijd, worden twee andere spelers kat en muis.",
+"Alle spelers, uitgezonderd één, zijn geblinddoekt. Zij bevinden zich op een afgebakend terrein. De speler die niet geblinddoekt is, loopt fluitend tussen de andere spelers, die hem moeten tikken. Kan iemand de fluiter tikken, dan wordt die de nieuwe fluiter. Een geblinddoekte speler die voelt dat hij getikt wordt, moet direct ‘blinde’ roepen om aan de tikker te laten weten dat hij de fluiter niet is.",
+"Een zeer klein stukje terrein wordt afgebakend. Op een teken van de spelleider (en dat kan ook een welp zijn), proberen de spelers een plaats te vinden op deze kleine oppervlakte. Wanneer de hele groep heeft plaatsgenomen op het afgebakende terrein, wordt de ruimte kleiner gemaakt. De groep moet dan telkens vindingrijker worden om op de kleine ruimte plaats te nemen.",
+];
+
+function kiesSpel() {
+  var keuze = spellen[Math.floor(Math.random() * spellen.length)];
+  document.getElementById("resultaat").innerHTML = keuze;
+}
+</script>
+</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776082600258-ksk1nf6j4","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Elke jeugdbeweging heeft wel een typisch pleinspel. Druk op de knop en ontdek een willekeurig spel uit de oude doos!</p>\n<p><button onclick=\"kiesSpel()\" style=\"padding: 10px 20px; font-size: 16px;\">Geef mij een spel!</button></p>\n<p id=\"resultaat\" style=\"font-weight: bold; margin-top: 15px;\"></p>\n<p>\n<script>\nvar spellen = [\n \"De spion - Iemand wordt door de meester aangeduid als spion en moet ongezien het kamp proberen te ontvluchten naar een punt in de nabije omgeving. Zodra de anderen merken dat de spion het kamp ontvlucht, moeten zij de achtervolging inzetten om te verhinderen dat de spion zijn doel bereikt.\",\n\"Spinnenkoppenkoers - De spelers staan met de handen en voeten op de startlijn, doch met de borst naar boven en de rug naar onder gekeerd. Op deze wijze proberen zij om het eerst een bepaalde baan af te leggen van hoogstens tien meter lang.\",\n\"Bewegingvrijheid - Deel de spelers in twee kampen. Kamp A gaat buiten. Onderwijl wordt er in B een gebeurtenis verteld, waarbij zeer vele bewegingen en gebaren gebruikt worden. Bijv. Een auto-ongeval - botsing met andere wagen - paniek - gewonden - veel bloed - politie -  ziekenwagen - nieuwsgierigen, enz. Speelster 1 van A wordt binnen geroepen. Al de gebaren en bewegingen worden haar voorgedaan, zonder één woord te spreken. Daarna worden ook de anderen één voor één binnengeroepen; telkens worden de gebaren uitgevoerd. De speelsters van A proberen deze gebeurtenis te raden. Tot slotte gaat B buiten en het spel herbegint.\",\n\"Ijskoningin en zonnestraal. Eén speler wordt aangeduid als ijskoningin, een andere als zonnestraal. Zij staan elke aan een kant van het terrein. Op het fluitsignaal lopen al de speler vrij rond. De ijskoningin achtervolgt de spelers en tikt hen. De spelers zijn dood en blijven onbewegelijk staan. De zonnestraal tikt de gedode spelers en maakt hen weer leven, waarna ze opnieuw mogen meespelen. Na een vooraf bepaalde tijd worden de op dat moment dode spelers geteld. Twee andere spelers worden aangeduid als zonnestraal en ijskoningin.\",\n\"Vergif. De speler staan in een kring. In het midden staat of ligt een voorwerp: het verfig. Allen geven elkaar de hand en proberen elkaar tegen het vergif te trekken. Die het aanraakt of de handenverbinding verbreekt, valt uit.\",\n\"Ambachten - De spelers staan in een kring. Een van hen verwijdert zich terwijl de anderen een ambacht kiezen. Waneer de eerst terugkomt, maken de andere de bewegingen eigen aan het gekozen ambacht, en moet hij het gekozen ambacht raden. Hij mag driemaal raden. Raadt hij juist, dan gaan allen lopen, en tracht hij een der vluchtenden te rikken die op zijn beurt eraan is.\",\n \"Elektriek - Eén speler wordt buitengezonden. De andere spelers leggen tien verschillende voorwerpen neer en duiden één voorwerp aan dat iedereen doodt door een elektrische ontlading zodra men het aanraakt. De buitengezonden speler wordt binnengeroepen en moet proberen al de voorwerpen, één voor één, weg te nemen zonder het gevaarlijke te raken. Raakt hij het toch, dan wordt hij uitgeschakeld en verovert zoveel punten als weggenomen voorwerpen.\",\n\"Krijgstucht - De leider beveelt een reeks oefeningen: al de spelers gaan zitten, lopen naar buiten, staan op handen en voeten, doen schoenen uit, kruipen onder de tafel door, knielen, hoesten, komen voor mij staan, links nevens mij, rechts nevens mij, achter mij, raak mij aan, enzovoort. De speler die het laatste een der bevelen uitvoert, valt uit en men speelt door tot er slechts één eindoverwinnaar is.\",\n\"Ik zeg! - De leider staat voor de spelers en doet de bewegingen voor terwijl hij ze beveelt zoals in turnen. De spelers doen de bevolen bewegingen slechts na nadat de leider eerst gezegd heeft: ik zeg (bijv. ik zeg: buigen) en slechts na het bevel: marsj (bijv. Ik zeg: knie buigen, marsj). Eerst na het volledige bevel met ik zeg en marsj mag de beweging uitgevoerd worden. Alle fouten van te vroeg bewegen, en van bewegen als er bevolen is zonder ik zeg of zonder marsj, worden met verlies van 't leven bestraft. De laatst overblijvende wint.\",\n\"Herders en wolven - Baken een terrein van twee meter bij twee meter af als schapenstal. Twee herder bewaken de schapenstal. De wolven (alle andere spelers) proberen hierin te sluipen zonder door de herder aangeraakt te worden, zo niet zijn ze hun leven kwijt. Slagen daarentegen dire wolven erin de stal binnen te dringen, zonder door een herder geraakt te worden, dan hebben zij de overwinning.\",\n\"Wie ben ik - Ieder moet om beurten zichzelf voorstellen, en wel op de volgende wijze: 1. Ik heet ANNEMIE 2. Ik woon in ANTWERPEN 3. Ik eet gaarne AARDBEIEN 4. Ik ga op reis naar AMSTERDAM 5. Ik neem een APPELTAART mee Dan komt de tweede aan de beurt, al haar antwoorden moeten met B beginnen, daarna C en zo verder tot ieder zichzelf heeft voorgesteld. Wie één der vijf voorstellingen niet tijdig vind, valt af.\",\n\"Spelen met de Breedte - In het midden van een cirkel, getekend op de grond, staat een stok. Gedurende het spel mag niemand de cirkel verlaten. In het begin van het spel krijgt elke speler drie punten. Iemand uit de groep wordt uitgekozen als tikker en wordt geblinddoekt. De tikker moet proberen iemand uit de groep te tikken, waarna deze persoon tikker wordt. Als de tikker de stok in het midden raakt, is hij/zij een punt kwijt. Als de tikker de cirkel verlaat, moet heel de groep hard loeien (MEUUUH!!!), zodat de tikker weet dat hij de rand van het spelveld bereikt heeft. Het spel is gedaan als iemand al zijn punten kwijt is.\",\n\"Stoelendans - De spelers zitten op een stoel. Eén speler staat in het midden van de kring. De spelleider noemt de namen van twee spelers die zitten. Deze twee spelers proberen van plaats te verwisselen. De speler die in het midden staat, probeert echter op een van de tijdelijk vrijgekomen stoelen plaats te nemen. Slaagt hij daarin dat gaat de overblijvende speler in het midden staan.\",\n\"Knipoog-spel -  Een deel van de spelers zitten op stoelen die in een kring werden opgesteld. Eén stoel blijft onbezet. De andere spelers staan achter de stoelen. De speler die achter de onbezette stoel staat, knipoogt naar één van de spelers op de stoelen. Deze speler tracht dan op de lege stoel te gaan zitten, voordat de speler die achter hem staat, hem kan tikken. Lukt hem dit, dan knipoogt de speler achter de stoel die nu vrijkomen is naar één van de andere spelers, enzovoort. Wordt de speler bij het weglopen getikt dan keert hij terug naar zijn plaats en moet de knipoger zijn geluk bij een andere speler beproeven.\",\n\"Kringtikken - Twee spelers lopen om de kring heen. Een bal wordt snel overgespeeld en de twee spelers die buiten de kring lopen, moeten proberen een speler uit de kring te tikken op het ogenblik dat die de bal heeft. Lukt dit, dan wisselen zij van plaats.\",\n\"Aarde, lucht en water - Een speler staat in het midden van de kring en heeft een bal. Hij werpt die bal naar een andere speler en zegt ‘aarde’, ‘lucht’ of ‘water’ en dan begint hij tot tien te tellen. De speler die de bal aangenomen heeft, moet binnen de tien seconden een dier noemen als ‘aarde’ geroepen werd, of een vogelnaam indien ‘lucht’ geroepen werd. Wie juist en op tijd antwoordt, mag de plaats van de speler in het midden innemen.\",\n\"Boeddha - Een speler zit geblinddoekt midden in de kring. Tussen zijn benen ligt een geldstuk. De spelleider duidt een van de spelers uit de kring aan en die mag proberen het geldstuk weg te nemen. Kan de Boeddha die in het midden zit de sluiper aanwijzen dan wordt de sluiper Boeddha.\",\n\"Kat en muis - De spelers staan in rijen van vier. Ze geven de spelers van hun rij een hand. Twee spelers staan niet in de rijen, zij zijn kat en muis. De kat probeert de muis te vangen. Zij lopen tussen de rijen spelers. Op een bepaald moment zegt de spelleider bv. ‘kwartdraai rechts’. De spelers in de rijen draaien en vormen nieuwe rijen. De situatie tussen de kat en de muis is helemaal gewijzigd. Indien de kat de muis niet heeft gevangen binnen een betrekkelijk korte tijd, worden twee andere spelers kat en muis.\",\n\"Alle spelers, uitgezonderd één, zijn geblinddoekt. Zij bevinden zich op een afgebakend terrein. De speler die niet geblinddoekt is, loopt fluitend tussen de andere spelers, die hem moeten tikken. Kan iemand de fluiter tikken, dan wordt die de nieuwe fluiter. Een geblinddoekte speler die voelt dat hij getikt wordt, moet direct ‘blinde’ roepen om aan de tikker te laten weten dat hij de fluiter niet is.\",\n\"Een zeer klein stukje terrein wordt afgebakend. Op een teken van de spelleider (en dat kan ook een welp zijn), proberen de spelers een plaats te vinden op deze kleine oppervlakte. Wanneer de hele groep heeft plaatsgenomen op het afgebakende terrein, wordt de ruimte kleiner gemaakt. De groep moet dan telkens vindingrijker worden om op de kleine ruimte plaats te nemen.\",\n];\n\nfunction kiesSpel() {\n  var keuze = spellen[Math.floor(Math.random() * spellen.length)];\n  document.getElementById(\"resultaat\").innerHTML = keuze;\n}\n</script>\n</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpb8uoo0-757yof4r5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Quiz</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Quiz</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Quiz</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpb8uoo0-757yof4r5</odePageId>
+      <odeBlockId>block-1776084770199-ap2tozvhg</odeBlockId>
+      <blockName>Denk je alles te weten over de jeugdbewegingen? Test het hier!</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpb8uoo0-757yof4r5</odePageId>
+          <odeBlockId>block-1776084770199-ap2tozvhg</odeBlockId>
+          <odeIdeviceId>idevice-1776084770199-1vd016n2z</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1776084770199-1vd016n2z" data-evaluationb="false" data-evaluationid="b93ac9c4-56b2-49d2-bdb1-363fa3087093"></div>
+            <div id="frmMainContainer-idevice-1776084770199-1vd016n2z" class="form-IDevice" data-id="idevice-1776084770199-1vd016n2z">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Laat hier je kennis zien over de jeugdbewegingen in het algemeen!</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tijd per vraag:</span></strong>
+                        <span id="frmPTime-idevice-1776084770199-1vd016n2z">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1776084770199-1vd016n2z" style="display:none;">
+                      <button  id="frmStartGame-idevice-1776084770199-1vd016n2z" type="button" class="btn btn-primary">Klik hier om te starten</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1776084770199-1vd016n2z" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1776084770199-1vd016n2z" > </div>
+                        <div id="frmCover-idevice-1776084770199-1vd016n2z" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1776084770199-1vd016n2z" class="form-results-container inline">
+                        <div id="form-score-idevice-1776084770199-1vd016n2z" class="score-text">Score.</div>
+                        <div id="form-result-test-idevice-1776084770199-1vd016n2z" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1776084770199-1vd016n2z" class="btn btn-primary" type="button" value="Controleer"
+                            data-id="idevice-1776084770199-1vd016n2z" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1776084770199-1vd016n2z" type="button" value="Herstart"
+                            data-id="idevice-1776084770199-1vd016n2z" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1776084770199-1vd016n2z" class="btn btn-primary" type="button" value="Toon antwoorden"
+                            data-id="idevice-1776084770199-1vd016n2z" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1776084770199-1vd016n2z" type="button" value="Sla score op" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776084770199-1vd016n2z","evaluation":false,"evaluationID":"b93ac9c4-56b2-49d2-bdb1-363fa3087093","repeatActivity":true,"isScorm":0,"textButtonScorm":"Save score","weighted":100,"msgs":{"msgScoreScorm":"De score kan niet worden opgeslagen omdat deze pagina geen deel is van een SCORM pakket.","msgYouScore":"Jouw score is","msgScore":"Score","msgWeight":"Gewogen","msgYouLastScore":"De laatst opgeslagen score is","msgOnlySaveScore":"Je kan de score maar één maal opslaan!","msgOnlySave":"Je kan maar één maal opslaan","msgOnlySaveAuto":"Jouw score zal automatisch worden opgeslagen na elke vraag. Je kan maar één keer spelen.","msgSaveAuto":"Je score zal automatisch opslaan na elke vraag.","msgSeveralScore":"Je kan de score zoveel opslaan als je wilt","msgPlaySeveralTimes":"Je kan deze activiteit zoveel opslaan als je wilt","msgActityComply":"Je hebt deze activiteit al voltooid.","msgUncompletedActivity":"Incomplete activiteit","msgSuccessfulActivity":"Activiteit: Geslaagd. Score %s","msgUnsuccessfulActivity":"Activiteit: Niet geslaagd. Score: %s","msgTypeGame":"Formulier","msgStartGame":"Klik hier om te starten","msgTime":"Tijd per vraag","msgSaveScore":"Sla score op","msgResult":"Resultaat","msgCheck":"Controleer","msgReset":"Herstart","msgShowAnswers":"Toon antwoorden","msgTestResultPass":"Proficiat! Je bent geslaagd voor de test","msgTestResultNotPass":"Jammer. Je bent niet geslaagd voor de test","msgTrueFalseHelp":"Duid aan of de statements waar of niet waar zijn.","msgDropdownHelp":"Kies het juiste antwoord uit de voorgestelde opties","msgFillHelp":"Vul de leegtes in met het juiste woord","msgSingleSelectionHelp":"Meerkeuze met één juist antwoord","msgMultipleSelectionHelp":"Meerkeuze met meerdere juiste antwoorden","msgPlayStart":"Klik hier om te starten","msgTrue":"Waar","msgFalse":"Niet waar","msgNext":"Volgende","msgPrevious":"Vorige","msgSuggestion":"Suggesties"},"id":"idevice-1776084770199-1vd016n2z","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Laat hier je kennis zien over de jeugdbewegingen in het algemeen!</p>","questionsData":[{"id":"1776084836419-7RHRT","activityType":"fill","baseText":"<p>Waar kunnen kinderen vanaf de tweede helft van de negentiende eeuw terecht voor opvang, spel en onderricht? Tip: het is de voorloper van de jeugdbewegingen. <u>Patronaten</u></p>","feedbackRight":"Goed zo!","feedbackWrong":"Jammer!","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776084975435-G6F6B","activityType":"selection","baseText":"<p>In welk decennium ontstaan de meeste Vlaamse jeugdbewegingen?</p>","feedbackRight":"Goed zo!","feedbackWrong":"Jammer!","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Jaren 1900"],[true,"Jaren 1920"],[false,"Jaren 1940"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776085052466-PCOWQ","activityType":"selection","baseText":"<p>Wanneer komt de wet op de verlenging van de schoolplicht van 6 tot 14 jaar tot stand?</p>","feedbackRight":"Goed gedaan!","feedbackWrong":"Jammer!","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"1889"],[false,"1905"],[true,"1914"],[false,"1921"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776085139691-CYS0A","activityType":"fill","baseText":"<p>Op 24 oktober <u>2001</u> vond de eerste Dag van de jeugdbeweging plaats. Vul het juiste jaartal in!</p>","feedbackRight":"Goed zo!","feedbackWrong":"Jammer!","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0},{"id":"1776085174829-4O0U2","activityType":"fill","baseText":"<p>Hoe heette de voorloper van de Dag van de Jeugdbeweging? <u>De Dag van Jan en Alleman</u></p>","feedbackRight":"Goed zo!","feedbackWrong":"Jammer!","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776085294790-QFQ8J","activityType":"selection","baseText":"<p>Hoeveel jongeren bereiken de door de Vlaamse overheid erkende landelijke jeugdbewegingen samen? </p>","feedbackRight":"Goed zo!","feedbackWrong":"Jammer!","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"160.000"],[true,"260.000"],[false,"560.000"],[false,"760.000"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776085404667-VI8VM","activityType":"selection","baseText":"<p>Waarom worden de kinderen en jongeren in een jeugdbeweging opgesplitst in verschillende leeftijdsgroepen?</p>","feedbackRight":"Goed zo!","feedbackWrong":"Jammer!","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Zodat de ouders meer rust hadden in het weekend."],[false,"Zodat er meer kinderen zich zouden inschrijven."],[false,"Zodat de leiding actiever werd."],[true,"Zodat de activiteiten aangepast kunnen worden aan de leeftijd."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776085415196-YKI6B","activityType":"fill","baseText":"<p>Geeft het woord dat beantwoordt aan de volgende omschrijving: georganiseerde groepsvakantie in eenvoudige accommodatie. <u>Kamp</u></p>","feedbackRight":"Goed zo!","feedbackWrong":"Jammer!","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776085489085-ZIPNJ","activityType":"fill","baseText":"<p>Hoe noemen we de stukjes stof met een symbool erop die op het uniform of op kledingstukken van een jeugdbeweging genaaid worden? <u>Kentekens</u></p>","feedbackRight":"Goed zo!","feedbackWrong":"Jammer!","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776085537277-VZW9K","activityType":"selection","baseText":"<p>In welke jaren evolueren de Vlaamse jeugdbewegingen het sterkst?</p>","feedbackRight":"Goed zo!","feedbackWrong":"Jammer!","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Jaren 1940-1950"],[true,"Jaren 1960-1970"],[false,"Jaren 1980-1990"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776086391771-5FTF5","activityType":"fill","baseText":"<p>In <u>2024</u> was het feest, de jeugdbewegingen worden officieel erkend als immaterieel erfgoed. Weet jij over welk jaar dit gaat?</p>","feedbackRight":"Goed zo!","feedbackWrong":"Jammer!","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mpb8uoo0-757yof4r5</odePageId>
+          <odeBlockId>block-1776084770199-ap2tozvhg</odeBlockId>
+          <odeIdeviceId>idevice-1776683877425-72m0iossd</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1776683877425-72m0iossd" data-evaluationb="false" data-evaluationid="263f8529-9312-44d0-8e8a-40594ff56118"></div>
+            <div id="frmMainContainer-idevice-1776683877425-72m0iossd" class="form-IDevice" data-id="idevice-1776683877425-72m0iossd">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Laat hier je kennis zien over Scouts en Gidsen Vlaanderen.</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tijd per vraag:</span></strong>
+                        <span id="frmPTime-idevice-1776683877425-72m0iossd">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1776683877425-72m0iossd" style="display:none;">
+                      <button  id="frmStartGame-idevice-1776683877425-72m0iossd" type="button" class="btn btn-primary">Klik hier om te starten</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1776683877425-72m0iossd" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1776683877425-72m0iossd" > </div>
+                        <div id="frmCover-idevice-1776683877425-72m0iossd" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1776683877425-72m0iossd" class="form-results-container inline">
+                        <div id="form-score-idevice-1776683877425-72m0iossd" class="score-text">Score.</div>
+                        <div id="form-result-test-idevice-1776683877425-72m0iossd" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1776683877425-72m0iossd" class="btn btn-primary" type="button" value="Controleer"
+                            data-id="idevice-1776683877425-72m0iossd" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1776683877425-72m0iossd" type="button" value="Herstart"
+                            data-id="idevice-1776683877425-72m0iossd" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1776683877425-72m0iossd" class="btn btn-primary" type="button" value="Laat antwoorden zien"
+                            data-id="idevice-1776683877425-72m0iossd" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1776683877425-72m0iossd" type="button" value="Opgeslagen score" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776683877425-72m0iossd","evaluation":false,"evaluationID":"263f8529-9312-44d0-8e8a-40594ff56118","repeatActivity":true,"isScorm":0,"textButtonScorm":"Save score","weighted":100,"msgs":{"msgScoreScorm":"Deze score can niet worden opgeslagen omdat deze pagina geen deel uitmaakt van een SCORM pakket.","msgYouScore":"Jouw score is","msgScore":"Score","msgWeight":"Gewogen","msgYouLastScore":"De laatst opgeslagen score is ","msgOnlySaveScore":"Je kan je score maar één keer opslaan!","msgOnlySave":"Je kan maar één keer opslaan","msgOnlySaveAuto":"Jouw score zal worden opgeslagen na elke vraag. Je kan maar één keer spelen.","msgSaveAuto":"Je score zal automatische worden opgeslagen na elke vraag.","msgSeveralScore":"Je kan jouw score opslaan zoveel je wilt.","msgPlaySeveralTimes":"Je kan deze activiteit zoveel doen als je wilt","msgActityComply":"Je hebt deze activiteit al gedaan.","msgUncompletedActivity":"Onvolledige activiteit","msgSuccessfulActivity":"Activiteit: geslaagd. Score %s","msgUnsuccessfulActivity":"Activiteit: Niet geslaagd. Score %s","msgTypeGame":"Document","msgStartGame":"Klik hier om te starten","msgTime":"Tijd per vraag","msgSaveScore":"Opgeslagen score","msgResult":"Resultaat","msgCheck":"Controleer","msgReset":"Herstart","msgShowAnswers":"Laat antwoorden zien","msgTestResultPass":"Gefeliciteerd! Je bent geslaagd voor deze quiz","msgTestResultNotPass":"Jammer. Je bent niet geslaagd voor deze test","msgTrueFalseHelp":"Selecteer of dit statement waar of niet waar is","msgDropdownHelp":"Kies de juiste optie tussen de voorgestelde opties","msgFillHelp":"Vul het vakje in met het juiste woord","msgSingleSelectionHelp":"Meerkeuze met één juist antwoord","msgMultipleSelectionHelp":"Meerkeuze met meerdere juiste antwoorden","msgPlayStart":"Klik hier om te starten","msgTrue":"Waar","msgFalse":"Niet waar","msgNext":"Volgende","msgPrevious":"Vorige","msgSuggestion":"Aanbevelling"},"id":"idevice-1776683877425-72m0iossd","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Laat hier je kennis zien over Scouts en Gidsen Vlaanderen.</p>","questionsData":[{"id":"1776683984555-GZ2EG","activityType":"selection","baseText":"<p>Wanneer smolten VVKS en VVKM officieel samen? </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"1953"],[true,"1973"],[false,"1983"],[false,"1963"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776684267848-A1COM","activityType":"selection","baseText":"<p>Welke was het eerste gidsendomein aangekocht door VVKM?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"De Kluis, St.-Joris-Weert"],[false,"Merkenveld, Loppem"],[true,"De Brink, Herentals"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776684404054-RBZJC","activityType":"fill","baseText":"<p>Hoeveel jeugdverblijven (vroegere 'domeinen') heeft Scouts en Gidsen Vlaanderen vandaag? (Antwoord voluit) <u>Acht</u></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776694889881-H5NQP","activityType":"fill","baseText":"<p>In welk jaar veranderde de naam van VVKSM in Scouts en Gidsen Vlaanderen? <u>2006</u></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776694921326-DAOR3","activityType":"selection","baseText":"<p>Hoe heten de overkoepelende organisaties van scouts en gidsen op wereldniveau? </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"multiple","answers":[[true,"WOSM"],[true,"WAGGGS"],[false,"WSL"],[false,"WSGA"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776694976238-ZNWCU","activityType":"fill","baseText":"<p>Jamboree is een internationale bijeenkomst voor scouts tussen 14 en 17 jaar van over de hele wereld. Om de hoeveel jaar vindt dit plaats? (Antwoord getal voluit) <u>Vier</u></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776695019677-YNUYL","activityType":"selection","baseText":"<p>Welk is geen van de vijf basispijlers van scouting? </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Ploegwerk"],[true,"Oriëntatie"],[false,"Engagement"],[false,"Medebeheer"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776695056396-PB75D","activityType":"selection","baseText":"<p>Op 22 februari wordt over de hele wereld de geboortedag van Baden-Powell gevierd. Hoe wordt deze dag niet genoemd?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Founders Day"],[false,"World Scouting Day"],[true,"International Scouting Day"],[false,"Baden-Powell's Day"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776695105019-SW8B2","activityType":"selection","baseText":"<p>The Jungle Book speelt een rol in de werking van de welpen en scouting. Wie schreef het?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Charles Dickens"],[true,"Rudyard Kipling"],[false,"Walt Disney"],[false,"Multatuli"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776695139141-DGG0Q","activityType":"selection","baseText":"<p>Waarvoor staat de afkorting Akabe? </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Afdeling Koningin Astrid Bijzonderen Eisenwerking"],[false,"Anders kan beter"],[true,"Anders kan best"],[false,"Alles kan beter"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpb8uoo2-kmqztizvi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Weetjes</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Weetjes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Weetjes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpb8uoo2-kmqztizvi</odePageId>
+      <odeBlockId>block-1776086139661-q3fiftkjj</odeBlockId>
+      <blockName>Klik en duik in geschiedenis van jeugdbewegingen in Vlaanderen.</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpb8uoo2-kmqztizvi</odePageId>
+          <odeBlockId>block-1776086139661-q3fiftkjj</odeBlockId>
+          <odeIdeviceId>idevice-1776086139660-bej0zewdz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Druk op onderstaande knop en krijg een willekeurig weetje over jeugdbewegingen!</p>
+<p><button onclick="kiesSpel()" style="padding: 10px 20px; font-size: 16px;">Weetjes-machine</button></p>
+<p id="resultaat" style="font-weight: bold; margin-top: 15px;"></p>
+<p>
+<script>
+var spellen = [
+ "Algemeen - Bij Chiro, KLJ en KSA zijn er nog altijd een aantal groepen met een eigen muziekkapel of fanfare.",
+ "Algemeen - Een van de redenen waarom jeugdbewegingen een uniform hadden en hebben, is dat het verschillende sociale standen bijeenbracht en de (uiterlijke) verschillen uitvlakte.",
+ "Algemeen - Scoutisme, scouting, scouts: internationale jeugdorganisatie, begin van de twintigste eeuw opgericht door de Britse militair Baden-Powell. De methodiek van het scoutisme werd net voor de Eerste Wereldoorlog in België geïntroduceerd. Binnen de Belgische scouting ontstonden twee strekkingen: een pluralistische en een katholieke. Tegenwoordig zijn er in België vijf erkende scoutsbewegingen: Scouts en Gidsen Vlaanderen, FOS Open Scouting, Les Scouts, Les Guides Catholiques de Belgique en Les Scouts et Guides Pluralistes.",
+ "Algemeen - Veel scouts- en gidsengroepen geven hun leden een totemnaam, een naam van een dier die verwijst naar karaktereigenschappen van de jongere. Dat gebeurt bij de totemisatie, een inwijdingsritueel met beproevingen. Een totemnaam aanvaarden betekent dat je een engagement aangaat. Een voortotem is een adjectief dat goed bij je past. Voorbeelden: optimistische bij, olijke bever, speelse fluwijn. Baden-Powell werd destijds door Afrikaanse stammen bestempeld als Impeesa, de onvermoeibare hyena.",
+ "Algemeen - Spelen, activiteiten, thema's, informatie, enzovoort: je leest er alles over in de tijdschriften van de jeugdbewegingen. Het is altijd al een belangrijk communicatiemiddel geweest. Door de jaren heen zijn er heel wat bij elkaar geschreven. Je hebt de nationale en de regionale. Daarnaast geven veel lokale groepen een paar keer per jaar een tijdschriftje of krantje uit. Ze vormen een schat aan informatie over het leven in de jeugdbeweging vroeger en nu.",
+ "Algemeen - Veldbedden, zachte matrassen of kampeermatjes: dat kenden ze vroeger niet op kamp. Elk lid kreeg een grote stoffen zak die ze moesten opvullen met stro van de boer.",
+ "Algemeen - In de tweede helft van de negentiende eeuw worden her en der in Vlaanderen patronaten gesticht. Een patronaat is een jeugdvereniging van de parochie. Kinderen bidden, leren en spelen in een patronaat. Vanuit de patronaten groeien vanaf de jaren 1910 ook enkele jeugdbewegingen.",
+ "Algemeen - Het verhaal van de jeugdbewegingen in Vlaanderen begint in 1875 wanneer de Katholieke Vlaamse Studentenbeweging met haar specifieke karakter van jeugd- en studentenbeweging tot stand komt.",
+ "Algemeen - Internationaal werd de scouts- en gidsenbeweging in 1907 gesticht door Baden-Powell.",
+ "Algemeen - Rond 1900 ontstaan in Duitsland en Engeland de jeugdbewegingen die internationaal het meest bekend zijn en ook inspiratie bieden aan de jeugdbewegingen in Vlaanderen: de Wandervogelbeweging, Scouting en Guiding. Die laatste twee krijgen voor en na de Eerste Wereldoorlog vaste voet in Vlaanderen.",
+ "Algemeen - Paus Pius XI start begin jaren 1920 met de Katholieke Actie, een massabeweging om de secularisering van de samenleving tegen te gaan. Het vernieuwende element was dat de kerk de gelovige leek opriep om priesters bij te staan in hun strijd tegen het geloofsverval. In de praktijk uitte zich dat in de uitbreiding en centralisering van het katholieke verenigingsleven. In Vlaanderen richtte de Katholieke Actie zich voornamelijk op jeugdbewegingen die per stand werden opgericht, zoals BJB, KAJ, KSA, KSJ.",
+ "Algemeen - Priester Jozef Cardijn (1882-1967) sticht in 1924 de Katholieke Arbeidersjeugd en is lange tijd nationale proost van de KAJ.",
+ "Algemeen - In 1926 wordt de VKAJ, de Vrouwelijke Katholieke Arbeidersjeugd, opgericht.",
+ "Algemeen - KAJ ontstaat in het begin van de jaren 1920 als jongerenbeweging binnen de katholieke arbeidersbeweging, als emancipatiebeweging voor jonge arbeiders.",
+ "Algemeen - In de jaren 1920 en 1930 worden jeugdorganisaties soms als hulpkrachten ingezet bij een transformatie van de maatschappij. Net voor en tijdens de Tweede Wereldoorlog verandert dit. De jeugdbeweging als methode wordt herontdekt. De klemtoon wordt verlegd naar persoonlijkheidsvorming en groepsleven.",
+ "Algemeen - In de jaren 1930 bestond er een afspraak tussen scouts en Chiro. De Chiro zou niet in tenten op kamp gaan en ze mochten hun leden geen overlevingstechnieken leren. Een gevolg hiervan is dat de Chiro niet zelf kookt op kamp maar dat kookouders koken voor de hele groep.",
+ "Algemeen - De jaren 1950: spelen met ridders was toen zeer hip.",
+ "Algemeen - Vanaf de jaren 1960 verandert de jeugdbeweging als methode: de autoritaire top-downbenadering wordt vervangen door een van de behoeften van de leden vertrekkende bottom-upaanpak.",
+ "Algemeen - In de woelige jaren 1960 en 1970 richten de jeugdbewegingen zich weer uitdrukkelijk naar de bredere maatschappij.",
+ "Algemeen - Sinds de jaren 1960 tot in de jaren 1990 wordt regelmatig een (inter)nationale veldloop voor jeugdbewegingen georganiseerd: de Dag van Jan en Alleman.",
+"Algemeen - Sinds de jaren 1990 ligt bij de jeugdbewegingen de klemtoon vooral op ongecompliceerd samen jong zijn, het beleven van het jong zijn in de eigen groep.",
+"Algemeen - In 2005-2006 is VerdraaiDe Wereld het jaarthema van tien Vlaamse jeugdbewegingen in samenwerking met heel wat ngo's. Centraal staat het thema duurzame ontwikkeling, in een wereldwijde dimensie. In 2011-2012 werken de jeugdbewegingen opnieuw samen rond een gezamenlijk jaarthema over armoede.",
+"Algemeen - In oktober 2001 wordt voor het eerst een Dag van de Jeugdbeweging georganiseerd in Vlaanderen.",
+"Algemeen - Het JVKA, Jeugdverbond voor Katholieke Actie, was de overkoepelende beweging van de jeugdbewegingen die onder impuls van de Katholieke Actie ontstonden.",
+"Algemeen - Gedurende de de jaren 1910 start scouting bij ons in Vlaanderen. Voor jongens gebeurde dit in 1910 en voor meisjes in 1919.",
+"Algemeen - Tijdens de bezetting door de nazi’s gedurende Wereldoorlog II mochten veel traditionele jeugdbewegingen niet meer vrij werken. De bezetter probeerde de jeugd te “gelijkschakelen” naar nazi-model.",
+"Algemeen - Tegen de jaren 1980 was het jaarlijkse kamp een van de belangrijkste activiteiten van bijna elke jeugdbeweging. Tijdens deze kampen verbleven jongeren meestal in tenten of lokalen.",
+"Algemeen - Gedurende de jaren 2010 gebruiken steeds meer groepen digitale communicatie. Deze gebruiken ze in de vorm van websites of Facebookgroepen.",
+"Algemeen - Op 1 juli 2024 worden Vlaamse jeugdbewegingen erkend als immaterieel erfgoed! Een belangrijke mijlpaal voor een recreatievorm waar zo goed als elke Vlaming al mee in contact kwam.",
+"Scouts en Gidsen Vlaanderen - Bij de scouts en gidsen toon je door het dragen van een uniform dat je lid bent van een grotere beweging en verwijs je naar de waarden van die beweging.",
+"Scouts en Gidsen Vlaanderen - In 1907 vindt het eerste scoutskamp plaats op Brownsea Island (Verenigd Koninkrijk) onder leiding van Robert Baden-Powell.",
+"Scouts en Gidsen Vlaanderen - Het huidige Scouts en Gidsen Vlaanderen ontstaat in 1913 wanneer in Antwerpen de eerste Nederlandstalige scoutsgroep in ons land wordt opgericht door Georges de Hasque.",
+"Scouts en Gidsen Vlaanderen - In 1911 komt er een jeugdbeweging voor meisjes want aanvankelijk is de scoutsbeweging enkel voor jongens.",
+"Scouts en Gidsen Vlaanderen - Vanaf 1930 spreken we van VVKS (Vlaams Verbond van Katholieke Scouts) en vanaf 1961 van VVKM (Vlaams Verbond van Katholieke Meisjesgidsen). In 1973 verenigen ze zich in één nationale structuur: VVKM-VVKS.",
+"Scouts en Gidsen Vlaanderen - In 1987-1988 wordt 'VVKSM na 75 jaar' gevierd.",
+"Scouts en Gidsen Vlaanderen - 1982: VVKM-VVKS richt VVKSM op, Vlaams Verbond van Katholieke Scouts en Meisjesgidsen.",
+"Scouts en Gidsen Vlaanderen7 - Tijdens het scouts- en gidsenjaar 2006-2007 viert scouting wereldwijd 100 jaar scouting onder het thema One world, one promise.",
+"Scouts en Gidsen Vlaanderen - In mei 2006 verandert de naam VVKSM in Scouts en Gidsen Vlaanderen.",
+"Scouts en Gidsen Vlaanderen - In 1922 is er hoog bezoek in België, niemand minder dan Robert Baden-Powell is in ons land. Tijdens zijn bezoek wordt hij hartelijk ontvangen door koning Albert I en kardinaal Mercier.",
+"Scouts en Gidsen Vlaanderen - Gedurende de Tweede Wereldoorlog werd vanuit het nationaal secretariaat VVKS opgeroepen om bij te dragen aan dienstbetoon. Veel scouts gingen hierdoor helpen bij winterhulp, dienstbetoon aan behoeftigen in eigen rangen en hulp aan kinderen van krijgsgevangenen en oorlogsweduwen.",
+"Scouts en Gidsen Vlaanderen - Vanaf 1957 groeit het aantal takken, namelijk door de toevoeging van de kapoenentak. Het startte als een experiment in 1955 en werd door het commissariaat Welpen in 1957 in gebruik genomen.",
+"Scouts en Gidsen Vlaanderen - Gedurende de jaren 60 is het dubbel feest! In 1962 vierden we 50 jaar katholieke scoutsbeweging in Vlaanderen met 30.000 leden in Antwerpen. Enkele jaren later, in 1965, werd dit opnieuw overgedaan in Leuven voor het 50-jarig bestaan van de katholieke gidsen in België.",
+"Scouts en Gidsen Vlaanderen - In 1974 vierden we het Jaar van de Rechtvaardigheid. Ook VVKM-VVKS deed mee. In het kader van het jaarthema 1% actie werd 1% van alle inkomsten van de nationale en plaatselijke groepen afgestaan aan ontwikkelingssamenwerking.",
+"Scouts en Gidsen Vlaanderen - 1990 is een symbolisch jaar voor Scouts en Gidsen Vlaanderen. Dit jaar vond de eerste Herfstontmoeting plaats op de Hoge Rielen! Een traditie die nog lang in stand wordt gehouden. Zelfs vandaag vind HO nog steeds plaats op deze, voor veel leden, heilige grond.",
+"Scouts en Gidsen Vlaanderen - Wie herinnert zich Nowan en Frie Bosmuis, de hoofdpersonages in De Steen van Nowan. Dit boek is het resultaat van een samenwerking met uitgeverij Van Halewyck waarbij niemand minder dan Marc De Bel het auteurschap op zich nam. Via dit scoutesk verhaal leren kapoenen omgaan met thema's als ruzie en vriendschap, heimwee, verdriet, moed of belofte.",
+"Scouts en Gidsen Vlaanderen - De coronapandemie gooit de werking van veel groepen door elkaar, maar ze staan niet stil! De jaarlijkse HO wordt vervangen door radio-uitzending RadiHO, werken met bubbels, ….",
+];
+
+function kiesSpel() {
+  var keuze = spellen[Math.floor(Math.random() * spellen.length)];
+  document.getElementById("resultaat").innerHTML = keuze;
+}
+</script>
+</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776086139660-bej0zewdz","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Druk op onderstaande knop en krijg een willekeurig weetje over jeugdbewegingen!</p>\n<p><button onclick=\"kiesSpel()\" style=\"padding: 10px 20px; font-size: 16px;\">Weetjes-machine</button></p>\n<p id=\"resultaat\" style=\"font-weight: bold; margin-top: 15px;\"></p>\n<p>\n<script>\nvar spellen = [\n \"Algemeen - Bij Chiro, KLJ en KSA zijn er nog altijd een aantal groepen met een eigen muziekkapel of fanfare.\",\n \"Algemeen - Een van de redenen waarom jeugdbewegingen een uniform hadden en hebben, is dat het verschillende sociale standen bijeenbracht en de (uiterlijke) verschillen uitvlakte.\",\n \"Algemeen - Scoutisme, scouting, scouts: internationale jeugdorganisatie, begin van de twintigste eeuw opgericht door de Britse militair Baden-Powell. De methodiek van het scoutisme werd net voor de Eerste Wereldoorlog in België geïntroduceerd. Binnen de Belgische scouting ontstonden twee strekkingen: een pluralistische en een katholieke. Tegenwoordig zijn er in België vijf erkende scoutsbewegingen: Scouts en Gidsen Vlaanderen, FOS Open Scouting, Les Scouts, Les Guides Catholiques de Belgique en Les Scouts et Guides Pluralistes.\",\n \"Algemeen - Veel scouts- en gidsengroepen geven hun leden een totemnaam, een naam van een dier die verwijst naar karaktereigenschappen van de jongere. Dat gebeurt bij de totemisatie, een inwijdingsritueel met beproevingen. Een totemnaam aanvaarden betekent dat je een engagement aangaat. Een voortotem is een adjectief dat goed bij je past. Voorbeelden: optimistische bij, olijke bever, speelse fluwijn. Baden-Powell werd destijds door Afrikaanse stammen bestempeld als Impeesa, de onvermoeibare hyena.\",\n \"Algemeen - Spelen, activiteiten, thema's, informatie, enzovoort: je leest er alles over in de tijdschriften van de jeugdbewegingen. Het is altijd al een belangrijk communicatiemiddel geweest. Door de jaren heen zijn er heel wat bij elkaar geschreven. Je hebt de nationale en de regionale. Daarnaast geven veel lokale groepen een paar keer per jaar een tijdschriftje of krantje uit. Ze vormen een schat aan informatie over het leven in de jeugdbeweging vroeger en nu.\",\n \"Algemeen - Veldbedden, zachte matrassen of kampeermatjes: dat kenden ze vroeger niet op kamp. Elk lid kreeg een grote stoffen zak die ze moesten opvullen met stro van de boer.\",\n \"Algemeen - In de tweede helft van de negentiende eeuw worden her en der in Vlaanderen patronaten gesticht. Een patronaat is een jeugdvereniging van de parochie. Kinderen bidden, leren en spelen in een patronaat. Vanuit de patronaten groeien vanaf de jaren 1910 ook enkele jeugdbewegingen.\",\n \"Algemeen - Het verhaal van de jeugdbewegingen in Vlaanderen begint in 1875 wanneer de Katholieke Vlaamse Studentenbeweging met haar specifieke karakter van jeugd- en studentenbeweging tot stand komt.\",\n \"Algemeen - Internationaal werd de scouts- en gidsenbeweging in 1907 gesticht door Baden-Powell.\",\n \"Algemeen - Rond 1900 ontstaan in Duitsland en Engeland de jeugdbewegingen die internationaal het meest bekend zijn en ook inspiratie bieden aan de jeugdbewegingen in Vlaanderen: de Wandervogelbeweging, Scouting en Guiding. Die laatste twee krijgen voor en na de Eerste Wereldoorlog vaste voet in Vlaanderen.\",\n \"Algemeen - Paus Pius XI start begin jaren 1920 met de Katholieke Actie, een massabeweging om de secularisering van de samenleving tegen te gaan. Het vernieuwende element was dat de kerk de gelovige leek opriep om priesters bij te staan in hun strijd tegen het geloofsverval. In de praktijk uitte zich dat in de uitbreiding en centralisering van het katholieke verenigingsleven. In Vlaanderen richtte de Katholieke Actie zich voornamelijk op jeugdbewegingen die per stand werden opgericht, zoals BJB, KAJ, KSA, KSJ.\",\n \"Algemeen - Priester Jozef Cardijn (1882-1967) sticht in 1924 de Katholieke Arbeidersjeugd en is lange tijd nationale proost van de KAJ.\",\n \"Algemeen - In 1926 wordt de VKAJ, de Vrouwelijke Katholieke Arbeidersjeugd, opgericht.\",\n \"Algemeen - KAJ ontstaat in het begin van de jaren 1920 als jongerenbeweging binnen de katholieke arbeidersbeweging, als emancipatiebeweging voor jonge arbeiders.\",\n \"Algemeen - In de jaren 1920 en 1930 worden jeugdorganisaties soms als hulpkrachten ingezet bij een transformatie van de maatschappij. Net voor en tijdens de Tweede Wereldoorlog verandert dit. De jeugdbeweging als methode wordt herontdekt. De klemtoon wordt verlegd naar persoonlijkheidsvorming en groepsleven.\",\n \"Algemeen - In de jaren 1930 bestond er een afspraak tussen scouts en Chiro. De Chiro zou niet in tenten op kamp gaan en ze mochten hun leden geen overlevingstechnieken leren. Een gevolg hiervan is dat de Chiro niet zelf kookt op kamp maar dat kookouders koken voor de hele groep.\",\n \"Algemeen - De jaren 1950: spelen met ridders was toen zeer hip.\",\n \"Algemeen - Vanaf de jaren 1960 verandert de jeugdbeweging als methode: de autoritaire top-downbenadering wordt vervangen door een van de behoeften van de leden vertrekkende bottom-upaanpak.\",\n \"Algemeen - In de woelige jaren 1960 en 1970 richten de jeugdbewegingen zich weer uitdrukkelijk naar de bredere maatschappij.\",\n \"Algemeen - Sinds de jaren 1960 tot in de jaren 1990 wordt regelmatig een (inter)nationale veldloop voor jeugdbewegingen georganiseerd: de Dag van Jan en Alleman.\",\n\"Algemeen - Sinds de jaren 1990 ligt bij de jeugdbewegingen de klemtoon vooral op ongecompliceerd samen jong zijn, het beleven van het jong zijn in de eigen groep.\",\n\"Algemeen - In 2005-2006 is VerdraaiDe Wereld het jaarthema van tien Vlaamse jeugdbewegingen in samenwerking met heel wat ngo's. Centraal staat het thema duurzame ontwikkeling, in een wereldwijde dimensie. In 2011-2012 werken de jeugdbewegingen opnieuw samen rond een gezamenlijk jaarthema over armoede.\",\n\"Algemeen - In oktober 2001 wordt voor het eerst een Dag van de Jeugdbeweging georganiseerd in Vlaanderen.\",\n\"Algemeen - Het JVKA, Jeugdverbond voor Katholieke Actie, was de overkoepelende beweging van de jeugdbewegingen die onder impuls van de Katholieke Actie ontstonden.\",\n\"Algemeen - Gedurende de de jaren 1910 start scouting bij ons in Vlaanderen. Voor jongens gebeurde dit in 1910 en voor meisjes in 1919.\",\n\"Algemeen - Tijdens de bezetting door de nazi’s gedurende Wereldoorlog II mochten veel traditionele jeugdbewegingen niet meer vrij werken. De bezetter probeerde de jeugd te “gelijkschakelen” naar nazi-model.\",\n\"Algemeen - Tegen de jaren 1980 was het jaarlijkse kamp een van de belangrijkste activiteiten van bijna elke jeugdbeweging. Tijdens deze kampen verbleven jongeren meestal in tenten of lokalen.\",\n\"Algemeen - Gedurende de jaren 2010 gebruiken steeds meer groepen digitale communicatie. Deze gebruiken ze in de vorm van websites of Facebookgroepen.\",\n\"Algemeen - Op 1 juli 2024 worden Vlaamse jeugdbewegingen erkend als immaterieel erfgoed! Een belangrijke mijlpaal voor een recreatievorm waar zo goed als elke Vlaming al mee in contact kwam.\",\n\"Scouts en Gidsen Vlaanderen - Bij de scouts en gidsen toon je door het dragen van een uniform dat je lid bent van een grotere beweging en verwijs je naar de waarden van die beweging.\",\n\"Scouts en Gidsen Vlaanderen - In 1907 vindt het eerste scoutskamp plaats op Brownsea Island (Verenigd Koninkrijk) onder leiding van Robert Baden-Powell.\",\n\"Scouts en Gidsen Vlaanderen - Het huidige Scouts en Gidsen Vlaanderen ontstaat in 1913 wanneer in Antwerpen de eerste Nederlandstalige scoutsgroep in ons land wordt opgericht door Georges de Hasque.\",\n\"Scouts en Gidsen Vlaanderen - In 1911 komt er een jeugdbeweging voor meisjes want aanvankelijk is de scoutsbeweging enkel voor jongens.\",\n\"Scouts en Gidsen Vlaanderen - Vanaf 1930 spreken we van VVKS (Vlaams Verbond van Katholieke Scouts) en vanaf 1961 van VVKM (Vlaams Verbond van Katholieke Meisjesgidsen). In 1973 verenigen ze zich in één nationale structuur: VVKM-VVKS.\",\n\"Scouts en Gidsen Vlaanderen - In 1987-1988 wordt 'VVKSM na 75 jaar' gevierd.\",\n\"Scouts en Gidsen Vlaanderen - 1982: VVKM-VVKS richt VVKSM op, Vlaams Verbond van Katholieke Scouts en Meisjesgidsen.\",\n\"Scouts en Gidsen Vlaanderen7 - Tijdens het scouts- en gidsenjaar 2006-2007 viert scouting wereldwijd 100 jaar scouting onder het thema One world, one promise.\",\n\"Scouts en Gidsen Vlaanderen - In mei 2006 verandert de naam VVKSM in Scouts en Gidsen Vlaanderen.\",\n\"Scouts en Gidsen Vlaanderen - In 1922 is er hoog bezoek in België, niemand minder dan Robert Baden-Powell is in ons land. Tijdens zijn bezoek wordt hij hartelijk ontvangen door koning Albert I en kardinaal Mercier.\",\n\"Scouts en Gidsen Vlaanderen - Gedurende de Tweede Wereldoorlog werd vanuit het nationaal secretariaat VVKS opgeroepen om bij te dragen aan dienstbetoon. Veel scouts gingen hierdoor helpen bij winterhulp, dienstbetoon aan behoeftigen in eigen rangen en hulp aan kinderen van krijgsgevangenen en oorlogsweduwen.\",\n\"Scouts en Gidsen Vlaanderen - Vanaf 1957 groeit het aantal takken, namelijk door de toevoeging van de kapoenentak. Het startte als een experiment in 1955 en werd door het commissariaat Welpen in 1957 in gebruik genomen.\",\n\"Scouts en Gidsen Vlaanderen - Gedurende de jaren 60 is het dubbel feest! In 1962 vierden we 50 jaar katholieke scoutsbeweging in Vlaanderen met 30.000 leden in Antwerpen. Enkele jaren later, in 1965, werd dit opnieuw overgedaan in Leuven voor het 50-jarig bestaan van de katholieke gidsen in België.\",\n\"Scouts en Gidsen Vlaanderen - In 1974 vierden we het Jaar van de Rechtvaardigheid. Ook VVKM-VVKS deed mee. In het kader van het jaarthema 1% actie werd 1% van alle inkomsten van de nationale en plaatselijke groepen afgestaan aan ontwikkelingssamenwerking.\",\n\"Scouts en Gidsen Vlaanderen - 1990 is een symbolisch jaar voor Scouts en Gidsen Vlaanderen. Dit jaar vond de eerste Herfstontmoeting plaats op de Hoge Rielen! Een traditie die nog lang in stand wordt gehouden. Zelfs vandaag vind HO nog steeds plaats op deze, voor veel leden, heilige grond.\",\n\"Scouts en Gidsen Vlaanderen - Wie herinnert zich Nowan en Frie Bosmuis, de hoofdpersonages in De Steen van Nowan. Dit boek is het resultaat van een samenwerking met uitgeverij Van Halewyck waarbij niemand minder dan Marc De Bel het auteurschap op zich nam. Via dit scoutesk verhaal leren kapoenen omgaan met thema's als ruzie en vriendschap, heimwee, verdriet, moed of belofte.\",\n\"Scouts en Gidsen Vlaanderen - De coronapandemie gooit de werking van veel groepen door elkaar, maar ze staan niet stil! De jaarlijkse HO wordt vervangen door radio-uitzending RadiHO, werken met bubbels, ….\",\n];\n\nfunction kiesSpel() {\n  var keuze = spellen[Math.floor(Math.random() * spellen.length)];\n  document.getElementById(\"resultaat\").innerHTML = keuze;\n}\n</script>\n</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpb8uoo2-rlr2h2241</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Gesprekkenmachine</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Gesprekkenmachine</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Gesprekken</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Gesprekkenmachine</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpb8uoo2-rlr2h2241</odePageId>
+      <odeBlockId>block-1776087793249-vmcr3xyzc</odeBlockId>
+      <blockName>Draai en vertel!</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpb8uoo2-rlr2h2241</odePageId>
+          <odeBlockId>block-1776087793249-vmcr3xyzc</odeBlockId>
+          <odeIdeviceId>idevice-1776087793249-tt4hw32hi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Ga rustig bij elkaar zitten binnen of buiten aan een kampvuur. Neem iets lekkers om te drinken en geniet van de gesprekken. Druk op de knop en laat het rad jullie vraag bepalen!</strong></p>
+<p><canvas id="rad" width="400" height="400"></canvas></p>
+<p><button onclick="draaiRad()" style="padding: 10px 20px; font-size: 16px;">Draai het rad!</button></p>
+<p id="reflectie" style="font-weight: bold; margin-top: 15px;"></p>
+<p>
+<script>
+// Woorden op het rad
+var woorden = [
+  "Muziek",
+  "Kampgrappen",
+  "Tradities",
+  "Nachtspel",
+  "Geuren",
+  "Activiteiten",
+  "Jubileum",
+  "Herinnering",
+  "Kasactie",
+  "Bijnamen",
+  "Feestjes",
+  "Startdag",
+  "Kampthema",
+  "Kamp/Weekend",
+  "Kampkost",
+"Corona",
+"Hygiëne",
+"Ecologie"
+];
+
+// Lange reflectieteksten gekoppeld aan elk woord
+var reflecties = {
+  "Muziek": "Muziek speelt een belangrijke rol in een jeugdbeweging: zingen, liedjes componeren, dansen, gitaarspelen bij het kampvuur, een festival op poten zetten, enzovoort. Wie van jullie komt uit de meest muzikale groep?",
+  "Kampgrappen": "We gaan op kamp! In de zomervakantie trekt bijna elke jeugdbeweging eropuit, in een grote of een kleine groep. Een ideaal moment om hilarische grappen uit te halen. Wie haalde ooit een grap uit op kamp?",
+  "Tradities": "Rituelen en tradities zijn vaak aanwezig in een jeugdbeweging. Ze verbinden leden van een groep tot een hechte gemeenschap, en tegelijk zorgen ze voor verscheidenheid. Lokale groepen geven er immers hun eigen betekenis en vorm aan. Kent jullie groep rituelen of tradities? Welke? Iedereen denkt één minuut na en geeft een voorbeeld.",
+  "Nachtspel": "Wie speelde ooit het meest spectaculaire nachtspel? Ontvoeringen, gemaskerde leiding, een tocht door het donkere bos, gehuil van wolven op de achtergrond: allemaal ingrediënten van een typisch nachtspel. Duik in je geheugen en vis een verhaal op over een spannend nachtspel dat je ooit meemaakte.",
+  "Geuren": "De geur van dennenhout, gebakken spek en ei, modder, zweetsokken in een legertent: geuren roepen herinneringen op aan vroeger. Welke geur roept de strafste herinneringen op? Welke geur, gelinkt aan jouw tijd in de jeugdbeweging, zal je altijd bijblijven?",
+  "Activiteiten": "Bosspelen, tochten, avontuur, sport, pleinspelen, creativiteit en expressie: welke activiteit slaat het meest aan bij jullie leden? Welke activiteit is een echte hit in jullie groep?",
+  "Jubileum": "'t Is feest! Veel groepen vieren feest naar aanleiding van de verjaardag van hun groep. Dat heet een jubileum. Wie vierde onlangs feest met zijn of haar groep? Wat stond er op het programma?",
+  "Herinnering": "Wat is je allermooiste herinnering? Als je één moment uit je jeugdbewegingscarrière nog één keer mocht beleven, welk dan precies? Iedereen denkt één minuut na en stelt hun mooiste herinnering kort voor.",
+  "Kasactie": "Veel jeugdbewegingsgroepen organiseren activiteiten om geld in het laatje te brengen Geef een voorbeeld van een activiteit die jullie ooit organiseerden om de kas te spijzen.",
+  "Bijnamen": "Bijnamen! Elke groep heeft er wel een paar. Gaande van /de witte/ tot /den tand/. Wie kan de gekste bijnaam voorleggen? En ken je het verhaal achter die naam? Denk één minuut na en leg dan een bijnaam voor.",
+  "Feestjes": "Veel groepen organiseren feestjes en uitstapjes, bijvoorbeeld naar aanleiding van een speciaal moment zoals Halloween, Sinterklaas of Pasen.",
+  "Startdag": "Organiseert jouw groep aan het begin van een nieuw werkjaar iets speciaals? Een soort van startdag, openingsmoment of overgangsritueel? Iedereen denkt één minuut na.",
+  "Kampthema": "Asterix en Obelix, FC de Kampioenen, Welkom in het circus, De spoken van Argwania: een kamp wordt meestal opgevrolijkt door een thema, een rode draad. Ga even terug in de tijd en keer terug met het beste kampthema.",
+  "Kamp/Weekend": "Gaan jullie op kamp of op weekend? In welke omstandigheden slapen en eten jullie?",
+  "Kampkost": "Ook recepten en gerechten zijn erfgoed. Waar kijken jullie op kamp ieder jaar weer naar uit om te eten? Met andere woorden: wat is de lekkerste kampkost?",
+"Corona": "13 maart 2020. De nationale lockdown gaat in! Alle fysieke activiteiten van jeugdbewegingen worden opgeschort. Veel groepen zien zich genoodzaakt om alternatieve manieren van vermaak te verzinnen. Wat deden jullie groepen om de activiteiten op een andere manier te kunnen laten doorgaan?",
+"Hygiëne": "Vroeger was het de normaalste zaak om tijdens een activiteit van één fles te drinken. Door onder andere corona zijn we ons bewust geworden van hygiëne. Hoe kijken jullie hiernaar terug? Moet dit behouden worden, of hebben jullie alternatieven?",
+"Ecologie": "De laatste jaren laten milieu en duurzaamheid zich steeds vaker en luider horen binnen de jeugdbewegingen. De groepen proberen een steentje bij te dragen om deze problematiek op te lossen. Wat zijn jullie tips om een activiteit of kamp ecologischer te maken?",
+};
+
+// Rad tekenen
+var canvas = document.getElementById("rad");
+var ctx = canvas.getContext("2d");
+var aantal = woorden.length;
+var hoek = 2 * Math.PI / aantal;
+
+function tekenRad() {
+  for (var i = 0; i < aantal; i++) {
+    ctx.beginPath();
+    ctx.fillStyle = i % 2 === 0 ? "#ffcc66" : "#ff9966";
+    ctx.moveTo(200, 200);
+    ctx.arc(200, 200, 200, i * hoek, (i + 1) * hoek);
+    ctx.fill();
+    ctx.save();
+    ctx.translate(200, 200);
+    ctx.rotate(i * hoek + hoek / 2);
+    ctx.textAlign = "right";
+    ctx.fillStyle = "#000";
+    ctx.font = "16px Arial";
+    ctx.fillText(woorden[i], 180, 5);
+    ctx.restore();
+  }
+}
+tekenRad();
+
+// Rad draaien
+function draaiRad() {
+  var draai = Math.random() * 360 + 720; // minstens 2 rondjes
+  canvas.style.transition = "transform 3s ease-out";
+  canvas.style.transform = "rotate(" + draai + "deg)";
+
+  setTimeout(function() {
+    var eindHoek = (draai % 360) * Math.PI / 180;
+    var index = Math.floor(aantal - (eindHoek / hoek)) % aantal;
+    var woord = woorden[index];
+    document.getElementById("reflectie").innerHTML = reflecties[woord];
+  }, 3000);
+}
+</script>
+</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776087793249-tt4hw32hi","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><strong>Ga rustig bij elkaar zitten binnen of buiten aan een kampvuur. Neem iets lekkers om te drinken en geniet van de gesprekken. Druk op de knop en laat het rad jullie vraag bepalen!</strong></p>\n<p><canvas id=\"rad\" width=\"400\" height=\"400\"></canvas></p>\n<p><button onclick=\"draaiRad()\" style=\"padding: 10px 20px; font-size: 16px;\">Draai het rad!</button></p>\n<p id=\"reflectie\" style=\"font-weight: bold; margin-top: 15px;\"></p>\n<p>\n<script>\n// Woorden op het rad\nvar woorden = [\n  \"Muziek\",\n  \"Kampgrappen\",\n  \"Tradities\",\n  \"Nachtspel\",\n  \"Geuren\",\n  \"Activiteiten\",\n  \"Jubileum\",\n  \"Herinnering\",\n  \"Kasactie\",\n  \"Bijnamen\",\n  \"Feestjes\",\n  \"Startdag\",\n  \"Kampthema\",\n  \"Kamp/Weekend\",\n  \"Kampkost\",\n\"Corona\",\n\"Hygiëne\",\n\"Ecologie\"\n];\n\n// Lange reflectieteksten gekoppeld aan elk woord\nvar reflecties = {\n  \"Muziek\": \"Muziek speelt een belangrijke rol in een jeugdbeweging: zingen, liedjes componeren, dansen, gitaarspelen bij het kampvuur, een festival op poten zetten, enzovoort. Wie van jullie komt uit de meest muzikale groep?\",\n  \"Kampgrappen\": \"We gaan op kamp! In de zomervakantie trekt bijna elke jeugdbeweging eropuit, in een grote of een kleine groep. Een ideaal moment om hilarische grappen uit te halen. Wie haalde ooit een grap uit op kamp?\",\n  \"Tradities\": \"Rituelen en tradities zijn vaak aanwezig in een jeugdbeweging. Ze verbinden leden van een groep tot een hechte gemeenschap, en tegelijk zorgen ze voor verscheidenheid. Lokale groepen geven er immers hun eigen betekenis en vorm aan. Kent jullie groep rituelen of tradities? Welke? Iedereen denkt één minuut na en geeft een voorbeeld.\",\n  \"Nachtspel\": \"Wie speelde ooit het meest spectaculaire nachtspel? Ontvoeringen, gemaskerde leiding, een tocht door het donkere bos, gehuil van wolven op de achtergrond: allemaal ingrediënten van een typisch nachtspel. Duik in je geheugen en vis een verhaal op over een spannend nachtspel dat je ooit meemaakte.\",\n  \"Geuren\": \"De geur van dennenhout, gebakken spek en ei, modder, zweetsokken in een legertent: geuren roepen herinneringen op aan vroeger. Welke geur roept de strafste herinneringen op? Welke geur, gelinkt aan jouw tijd in de jeugdbeweging, zal je altijd bijblijven?\",\n  \"Activiteiten\": \"Bosspelen, tochten, avontuur, sport, pleinspelen, creativiteit en expressie: welke activiteit slaat het meest aan bij jullie leden? Welke activiteit is een echte hit in jullie groep?\",\n  \"Jubileum\": \"'t Is feest! Veel groepen vieren feest naar aanleiding van de verjaardag van hun groep. Dat heet een jubileum. Wie vierde onlangs feest met zijn of haar groep? Wat stond er op het programma?\",\n  \"Herinnering\": \"Wat is je allermooiste herinnering? Als je één moment uit je jeugdbewegingscarrière nog één keer mocht beleven, welk dan precies? Iedereen denkt één minuut na en stelt hun mooiste herinnering kort voor.\",\n  \"Kasactie\": \"Veel jeugdbewegingsgroepen organiseren activiteiten om geld in het laatje te brengen Geef een voorbeeld van een activiteit die jullie ooit organiseerden om de kas te spijzen.\",\n  \"Bijnamen\": \"Bijnamen! Elke groep heeft er wel een paar. Gaande van /de witte/ tot /den tand/. Wie kan de gekste bijnaam voorleggen? En ken je het verhaal achter die naam? Denk één minuut na en leg dan een bijnaam voor.\",\n  \"Feestjes\": \"Veel groepen organiseren feestjes en uitstapjes, bijvoorbeeld naar aanleiding van een speciaal moment zoals Halloween, Sinterklaas of Pasen.\",\n  \"Startdag\": \"Organiseert jouw groep aan het begin van een nieuw werkjaar iets speciaals? Een soort van startdag, openingsmoment of overgangsritueel? Iedereen denkt één minuut na.\",\n  \"Kampthema\": \"Asterix en Obelix, FC de Kampioenen, Welkom in het circus, De spoken van Argwania: een kamp wordt meestal opgevrolijkt door een thema, een rode draad. Ga even terug in de tijd en keer terug met het beste kampthema.\",\n  \"Kamp/Weekend\": \"Gaan jullie op kamp of op weekend? In welke omstandigheden slapen en eten jullie?\",\n  \"Kampkost\": \"Ook recepten en gerechten zijn erfgoed. Waar kijken jullie op kamp ieder jaar weer naar uit om te eten? Met andere woorden: wat is de lekkerste kampkost?\",\n\"Corona\": \"13 maart 2020. De nationale lockdown gaat in! Alle fysieke activiteiten van jeugdbewegingen worden opgeschort. Veel groepen zien zich genoodzaakt om alternatieve manieren van vermaak te verzinnen. Wat deden jullie groepen om de activiteiten op een andere manier te kunnen laten doorgaan?\",\n\"Hygiëne\": \"Vroeger was het de normaalste zaak om tijdens een activiteit van één fles te drinken. Door onder andere corona zijn we ons bewust geworden van hygiëne. Hoe kijken jullie hiernaar terug? Moet dit behouden worden, of hebben jullie alternatieven?\",\n\"Ecologie\": \"De laatste jaren laten milieu en duurzaamheid zich steeds vaker en luider horen binnen de jeugdbewegingen. De groepen proberen een steentje bij te dragen om deze problematiek op te lossen. Wat zijn jullie tips om een activiteit of kamp ecologischer te maken?\",\n};\n\n// Rad tekenen\nvar canvas = document.getElementById(\"rad\");\nvar ctx = canvas.getContext(\"2d\");\nvar aantal = woorden.length;\nvar hoek = 2 * Math.PI / aantal;\n\nfunction tekenRad() {\n  for (var i = 0; i < aantal; i++) {\n    ctx.beginPath();\n    ctx.fillStyle = i % 2 === 0 ? \"#ffcc66\" : \"#ff9966\";\n    ctx.moveTo(200, 200);\n    ctx.arc(200, 200, 200, i * hoek, (i + 1) * hoek);\n    ctx.fill();\n    ctx.save();\n    ctx.translate(200, 200);\n    ctx.rotate(i * hoek + hoek / 2);\n    ctx.textAlign = \"right\";\n    ctx.fillStyle = \"#000\";\n    ctx.font = \"16px Arial\";\n    ctx.fillText(woorden[i], 180, 5);\n    ctx.restore();\n  }\n}\ntekenRad();\n\n// Rad draaien\nfunction draaiRad() {\n  var draai = Math.random() * 360 + 720; // minstens 2 rondjes\n  canvas.style.transition = \"transform 3s ease-out\";\n  canvas.style.transform = \"rotate(\" + draai + \"deg)\";\n\n  setTimeout(function() {\n    var eindHoek = (draai % 360) * Math.PI / 180;\n    var index = Math.floor(aantal - (eindHoek / hoek)) % aantal;\n    var woord = woorden[index];\n    document.getElementById(\"reflectie\").innerHTML = reflecties[woord];\n  }, 3000);\n}\n</script>\n</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
